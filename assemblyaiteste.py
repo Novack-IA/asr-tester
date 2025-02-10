@@ -10,30 +10,26 @@ from pydub import AudioSegment
 
 load_dotenv()
 
-# Configurar o cliente AssemblyAI
 aai.settings.api_key = os.getenv("ASSEMBLYAI_API_KEY")
 config = aai.TranscriptionConfig(
                 language_code="pt",
                 speech_model=aai.SpeechModel.best
                 )
 
-# Diretório raiz do conjunto de dados
 ROOT_DIR = "test"
 CSV_PATH = "metadata_test_final.csv"
 LOG_FILE = "transcription_log_assembly.txt"
-SAMPLE_SIZE = 100  # Quantidade de áudios a serem processados
+SAMPLE_SIZE = 100  
 
-# Carregar transcrições de referência do CSV
 reference_data = pd.read_csv(CSV_PATH)
 
-# Criar um dicionário apenas com os nomes dos arquivos
 reference_dict = {os.path.basename(path): text for path, text in zip(reference_data["file_path"], reference_data["text"])}
 
 def get_audio_duration(file_path):
     """Obtém a duração real do áudio em segundos."""
     try:
         audio = AudioSegment.from_file(file_path)
-        return len(audio) / 1000  # Converte de milissegundos para segundos
+        return len(audio) / 1000 
     except Exception as e:
         print(f"Erro ao obter duração de {file_path}: {str(e)}")
         return None
@@ -41,7 +37,7 @@ def get_audio_duration(file_path):
 def transcribe_file(file_path):
     transcriber = aai.Transcriber()
     try:
-        transcript = transcriber.transcribe(file_path)
+        transcript = transcriber.transcribe(file_path, config=config)
         if transcript.status == aai.TranscriptStatus.error:
             print(f"Erro ao transcrever {file_path}: {transcript.error}")
             return None, None
@@ -90,7 +86,7 @@ def process_dataset():
                 speech_model=aai.SpeechModel.best
                 )
 
-            transcription, audio_duration = transcribe_file(file_path, config=config)
+            transcription, audio_duration = transcribe_file(file_path)
             end_time = time.time()
             
             if transcription is None:
@@ -130,7 +126,6 @@ if __name__ == "__main__":
     
     results, valid_metrics = process_dataset()
     
-    # Calcular médias (ignorando transcrições com 100% de erro)
     if valid_metrics:
         avg_wer = sum(w for w, _, _, _ in valid_metrics) / len(valid_metrics)
         avg_cer = sum(c for _, c, _, _ in valid_metrics) / len(valid_metrics)

@@ -3,3 +3,4 @@ __pycache__
 tvenv
 results_sampled.csv 
 test/
+results_assembly.csv

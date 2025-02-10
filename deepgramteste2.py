@@ -35,7 +35,7 @@ def get_audio_duration(file_path):
 def transcribe_file(file_path):
     with open(file_path, "rb") as audio:
         source = {"buffer": audio, "mimetype": "audio/wav"}
-        options = PrerecordedOptions(model="nova-2", language="pt-BR")
+        options = PrerecordedOptions(model="nova-2", language="pt-BR" , punctuate=True)
         
         start_time = time.time()
         response = deepgram.listen.prerecorded.v("1").transcribe_file(source, options)
@@ -88,7 +88,7 @@ def process_dataset():
             if audio_duration is None:
                 continue
             
-            if metrics["WER"] < 1.0 and metrics["CER"] < 1.0:  # Ignorar erros 100%
+            if metrics["WER"] < 1.0 and metrics["CER"] < 1.0:  
                 valid_metrics.append((metrics["WER"], metrics["CER"], duration, audio_duration))
             
             results.append({
@@ -118,7 +118,6 @@ if __name__ == "__main__":
     
     results, valid_metrics = process_dataset()
     
-    # Calcular médias (ignorando transcrições com 100% de erro)
     if valid_metrics:
         avg_wer = sum(w for w, _, _, _ in valid_metrics) / len(valid_metrics)
         avg_cer = sum(c for _, c, _, _ in valid_metrics) / len(valid_metrics)
