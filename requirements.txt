@@ -1,0 +1,6 @@
+deepgram-sdk
+python-dotenv
+jiwer
+pandas 
+pydub
+assemblyai

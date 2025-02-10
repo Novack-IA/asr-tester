@@ -1,0 +1,705 @@
+Log de Transcrição - Amostragem Aleatória
+==================================================
+Arquivo: 48304_sp_.wav
+Referência: se você é paulistana ou não eu acho que não
+Transcrição: se é paulistano ou não acho que não
+Duração do áudio: 2.21 segundos
+WER: 0.3000, CER: 0.2093
+Tempo de processamento: 2.17 segundos
+--------------------------------------------------
+Arquivo: 45264_sp_.wav
+Referência: e foi isso só que hoje
+Transcrição: e foi isso só que hoje
+Duração do áudio: 2.34 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 3.47 segundos
+--------------------------------------------------
+Arquivo: AB8_pog3Lt8-0099.wav
+Referência: ao invés disso eles não podem estar associados a estas rodas
+Transcrição: ao invés disso eles não podem estar associados a estas rodas
+Duração do áudio: 6.24 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.33 segundos
+--------------------------------------------------
+Arquivo: 9826_alip_.wav
+Referência: vários bancos é um postinho simples apesar da cidade se uma cidadezinha pequena um município praticamente é é um um um há um postinho assim
+Transcrição: vários bancos é postinho simples apesar da cidade ser uma cidadezinha pequena o município praticamente é é há postinho assim
+Duração do áudio: 10.88 segundos
+WER: 0.2800, CER: 0.1295
+Tempo de processamento: 2.44 segundos
+--------------------------------------------------
+Arquivo: 45918_sp_.wav
+Referência: aí voltei a ser vende fui vender em outro lugar
+Transcrição: aí voltei a ser vender em outro lugar
+Duração do áudio: 2.46 segundos
+WER: 0.2000, CER: 0.2128
+Tempo de processamento: 2.24 segundos
+--------------------------------------------------
+Arquivo: 62370_nurc_.wav
+Referência: passam se aquelas condolências
+Transcrição: 
+Duração do áudio: 1.81 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.06 segundos
+--------------------------------------------------
+Arquivo: 9658_alip_.wav
+Referência: apesar dele tá perto da minha casa eu não sabia que ele estava perto da minha casa porque essa outra mulher que era colega da minha mãe não esperava que ele fosse
+Transcrição: apesar dele estar perto da minha casa eu não sabia que ele estava perto da minha casa porque essa outra mulher que era colega da minha mãe não esperava que ele fosse
+Duração do áudio: 6.52 segundos
+WER: 0.0312, CER: 0.0247
+Tempo de processamento: 2.30 segundos
+--------------------------------------------------
+Arquivo: 45664_sp_.wav
+Referência: e esses dois mais velhos não são registrados não tem contato nenhum
+Transcrição: e esses dois mais velhos não são registrados não tem contato nenhum
+Duração do áudio: 3.70 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.26 segundos
+--------------------------------------------------
+Arquivo: A0dfeodJL8Q-0006.wav
+Referência: eu tô muito feliz também em dividir palco com gente como luiz que faz a coisa acontecer no brasil
+Transcrição: estou muito feliz também em dividir palco com gente como o luiz que faz a coisa acontecer no brasil
+Duração do áudio: 6.12 segundos
+WER: 0.1579, CER: 0.0619
+Tempo de processamento: 2.62 segundos
+--------------------------------------------------
+Arquivo: 3187_alip_.wav
+Referência: aí depois a gente foi
+Transcrição: agora depois a gente foi
+Duração do áudio: 2.12 segundos
+WER: 0.2000, CER: 0.1905
+Tempo de processamento: 2.24 segundos
+--------------------------------------------------
+Arquivo: 63046_nurc_.wav
+Referência: e se ter se manter também os teatros
+Transcrição: 
+Duração do áudio: 4.31 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.29 segundos
+--------------------------------------------------
+Arquivo: A1yGXAJx-x8-0097.wav
+Referência: de histórias uma mãe chegou e disse nossa eu nunca ouvi uma história nunca ninguém contou uma história pra mim
+Transcrição: histórias uma mãe chegou e disse nossa eu nunca ouvi uma história nunca ninguém contou uma história pra
+Duração do áudio: 9.56 segundos
+WER: 0.1000, CER: 0.0636
+Tempo de processamento: 2.46 segundos
+--------------------------------------------------
+Arquivo: 128491_nurc_.wav
+Referência: ela quer uma mamadeira de manhã
+Transcrição: ela quer uma madeira de manhã
+Duração do áudio: 2.13 segundos
+WER: 0.1667, CER: 0.0645
+Tempo de processamento: 2.09 segundos
+--------------------------------------------------
+Arquivo: 46004_sp_.wav
+Referência: não tinha esse costume por exemplo de ir pra festas com colegas com
+Transcrição: tinha esse costume por exemplo de ir pra festas com levas com
+Duração do áudio: 4.04 segundos
+WER: 0.1538, CER: 0.1045
+Tempo de processamento: 2.15 segundos
+--------------------------------------------------
+Arquivo: 141388_nurc_.wav
+Referência: aquela a escala
+Transcrição: aquela a escala
+Duração do áudio: 1.98 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.90 segundos
+--------------------------------------------------
+Arquivo: 62899_alip_.wav
+Referência: cê viu que a mulher da novela a cor
+Transcrição: você viu que a moeda não vê lá
+Duração do áudio: 1.96 segundos
+WER: 0.6667, CER: 0.4857
+Tempo de processamento: 2.53 segundos
+--------------------------------------------------
+Arquivo: 46092_sp_.wav
+Referência: e já em cidades menores
+Transcrição: já em cidades menores
+Duração do áudio: 1.62 segundos
+WER: 0.2000, CER: 0.0870
+Tempo de processamento: 1.96 segundos
+--------------------------------------------------
+Arquivo: 140851_nurc_.wav
+Referência: como parte integrante do comportamento do indivíduo como um todo
+Transcrição: como parte integrante do comportamento do indivíduo como todo
+Duração do áudio: 4.36 segundos
+WER: 0.1000, CER: 0.0469
+Tempo de processamento: 2.22 segundos
+--------------------------------------------------
+Arquivo: 15804_CO_bfammn30.wav
+Referência: e em seguida o carro em movimento uma faixa de sessenta quilômetro por hora a loura desaparecia misteriosamente do carro
+Transcrição: em seguida o carro em movimento uma faixa de sessenta quilômetros por hora a loira desaparecia misteriosamente do carro
+Duração do áudio: 7.79 segundos
+WER: 0.1500, CER: 0.0333
+Tempo de processamento: 2.55 segundos
+--------------------------------------------------
+Arquivo: 141182_nurc_.wav
+Referência: para a mesma resposta
+Transcrição: para a mesma resposta
+Duração do áudio: 2.03 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.28 segundos
+--------------------------------------------------
+Arquivo: 242893_nurc_.wav
+Referência: num era um dólar propriamente era um centavo lá que eu não entendo ainda direito
+Transcrição: não era dólar pra mim ter centavo lá que eu não entendo ainda direito
+Duração do áudio: 4.34 segundos
+WER: 0.3333, CER: 0.2125
+Tempo de processamento: 2.15 segundos
+--------------------------------------------------
+Arquivo: 70828_sp_.wav
+Referência: morar num lugar bem central ajuda um pouco a vida
+Transcrição: morar num lugar bem central ajuda pouco a
+Duração do áudio: 2.56 segundos
+WER: 0.2000, CER: 0.1633
+Tempo de processamento: 2.06 segundos
+--------------------------------------------------
+Arquivo: 61509_nurc_.wav
+Referência: por não se querer o filho
+Transcrição: como não se querer o filho
+Duração do áudio: 1.38 segundos
+WER: 0.1667, CER: 0.1200
+Tempo de processamento: 1.67 segundos
+--------------------------------------------------
+Arquivo: 127758_nurc_.wav
+Referência: disfunção de ovário
+Transcrição: 
+Duração do áudio: 1.39 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.74 segundos
+--------------------------------------------------
+Arquivo: 243323_nurc_.wav
+Referência: então da mesma maneira que duas cabeças duas sentenças
+Transcrição: 
+Duração do áudio: 4.23 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.23 segundos
+--------------------------------------------------
+Arquivo: 42938_sp_.wav
+Referência: eu tinha uma ah uma faixa de idade muito diferente né da da da época que eu morei aqui
+Transcrição: tinha uma faixa de idade muito diferente né da época que eu morei aqui
+Duração do áudio: 6.53 segundos
+WER: 0.2632, CER: 0.1860
+Tempo de processamento: 2.46 segundos
+--------------------------------------------------
+Arquivo: 48852_sp_.wav
+Referência: só liberdade minha com ele que eu não posso ter na frente de todo mundo
+Transcrição: só a liberdade venha com ele que eu não posso ter em frente de todo
+Duração do áudio: 3.39 segundos
+WER: 0.2667, CER: 0.1690
+Tempo de processamento: 2.17 segundos
+--------------------------------------------------
+Arquivo: 62914_nurc_.wav
+Referência: dessa dessa concepção de mundo
+Transcrição: dessa concepção de
+Duração do áudio: 2.01 segundos
+WER: 0.4000, CER: 0.4000
+Tempo de processamento: 1.93 segundos
+--------------------------------------------------
+Arquivo: 31387_CO_bfammn24.wav
+Referência: não só porque é falado mas também é a minha vontade
+Transcrição: não só porque é falado mas também é minha vontade
+Duração do áudio: 4.30 segundos
+WER: 0.0909, CER: 0.0392
+Tempo de processamento: 2.37 segundos
+--------------------------------------------------
+Arquivo: 48485_sp_.wav
+Referência: mais no centro
+Transcrição: o centro
+Duração do áudio: 0.81 segundos
+WER: 0.6667, CER: 0.4286
+Tempo de processamento: 1.83 segundos
+--------------------------------------------------
+Arquivo: 45500_sp_.wav
+Referência: de não ter direito minha mãe desempregada a irmã que
+Transcrição: de não ter direito minha mãe desempregada a irmã aqui
+Duração do áudio: 3.12 segundos
+WER: 0.1000, CER: 0.0385
+Tempo de processamento: 2.22 segundos
+--------------------------------------------------
+Arquivo: 140719_nurc_.wav
+Referência: é bastante superior a da criança
+Transcrição: é bastante superior a da criança
+Duração do áudio: 2.77 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.01 segundos
+--------------------------------------------------
+Arquivo: 195062_nurc_.wav
+Referência: aqui então ainda é pior né
+Transcrição: que ainda pior né
+Duração do áudio: 1.40 segundos
+WER: 0.5000, CER: 0.3462
+Tempo de processamento: 1.71 segundos
+--------------------------------------------------
+Arquivo: 9701_alip_.wav
+Referência: aí meu pai já sa aí meu pai quando eu falei meu pai já saria quem era aí
+Transcrição: aí meu pai já aí meu pai quando eu falei meu pai já sabia quem era aí esse
+Duração do áudio: 4.20 segundos
+WER: 0.1667, CER: 0.1250
+Tempo de processamento: 2.77 segundos
+--------------------------------------------------
+Arquivo: 142868_nurc_.wav
+Referência: como por exemplo a vegetação
+Transcrição: como por exemplo a vegetação
+Duração do áudio: 1.79 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.03 segundos
+--------------------------------------------------
+Arquivo: 62709_alip_.wav
+Referência: é uma que tinha ali
+Transcrição: é uma que tinha mesmo
+Duração do áudio: 2.12 segundos
+WER: 0.2000, CER: 0.2632
+Tempo de processamento: 2.12 segundos
+--------------------------------------------------
+Arquivo: 127154_nurc_.wav
+Referência: que vai ficar atrás atando
+Transcrição: vai ficar atrasatando
+Duração do áudio: 1.47 segundos
+WER: 0.6000, CER: 0.2308
+Tempo de processamento: 2.15 segundos
+--------------------------------------------------
+Arquivo: a4ZFKFLLORE-0145.wav
+Referência: aluno uma infinidade de recursos digitais vai dar conteúdo e método pra ele com certeza
+Transcrição: aluno uma infinidade de recursos digitais vai dar conteúdo e método pra ele com certeza
+Duração do áudio: 8.76 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.40 segundos
+--------------------------------------------------
+Arquivo: 62690_nurc_.wav
+Referência: ser gerada no dentro da mulher
+Transcrição: ser gerada no dentro da mulher
+Duração do áudio: 3.83 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 3.61 segundos
+--------------------------------------------------
+Arquivo: 44985_sp_.wav
+Referência: nossa
+Transcrição: 
+Duração do áudio: 1.66 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.03 segundos
+--------------------------------------------------
+Arquivo: 3189_alip_.wav
+Referência: que é legal que ela ela é dentro de um de um lugar lá de uma casa grande lá
+Transcrição: se é legal que ela ela dentro de de lugar lá de uma casa grande lá
+Duração do áudio: 5.60 segundos
+WER: 0.2105, CER: 0.1333
+Tempo de processamento: 2.36 segundos
+--------------------------------------------------
+Arquivo: 25920_CO_bfammn27.wav
+Referência: aí inventaram a musicologia
+Transcrição: inventaram a musicologia
+Duração do áudio: 2.21 segundos
+WER: 0.2500, CER: 0.1111
+Tempo de processamento: 2.03 segundos
+--------------------------------------------------
+Arquivo: 126311_nurc_.wav
+Referência: taline tá ficando mais raquítico
+Transcrição: está ficando mais raquid
+Duração do áudio: 2.02 segundos
+WER: 0.6000, CER: 0.3125
+Tempo de processamento: 2.04 segundos
+--------------------------------------------------
+Arquivo: 48067_sp_.wav
+Referência: trabalha o outro trabalha tem uma rotina diferente da minha
+Transcrição: trabalho ou trabalho e tenho uma rotina diferente da
+Duração do áudio: 2.87 segundos
+WER: 0.6000, CER: 0.2881
+Tempo de processamento: 2.03 segundos
+--------------------------------------------------
+Arquivo: 9721_CO_bfammn28.wav
+Referência: pra onde que eu vou
+Transcrição: pra onde que eu vou
+Duração do áudio: 1.46 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.85 segundos
+--------------------------------------------------
+Arquivo: 9761_alip_.wav
+Referência: e eles voltaram
+Transcrição: e eles voltaram
+Duração do áudio: 1.60 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.00 segundos
+--------------------------------------------------
+Arquivo: 43018_sp_.wav
+Referência: eu não tenho é mas eu não acho que é pela cidade grande eu acho que é pela uma questão minha mesmo assim dos vínculos de muito tempo
+Transcrição: 
+Duração do áudio: 8.47 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.67 segundos
+--------------------------------------------------
+Arquivo: 15768_CO_bfammn30.wav
+Referência: que é mais barato
+Transcrição: é mais barato
+Duração do áudio: 1.30 segundos
+WER: 0.2500, CER: 0.2353
+Tempo de processamento: 1.82 segundos
+--------------------------------------------------
+Arquivo: 142579_nurc_.wav
+Referência: não é uma aula típica da disciplina
+Transcrição: não é uma aula típica da disciplina
+Duração do áudio: 2.96 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.21 segundos
+--------------------------------------------------
+Arquivo: 45784_sp_.wav
+Referência: depois disso
+Transcrição: depois disso
+Duração do áudio: 1.45 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.84 segundos
+--------------------------------------------------
+Arquivo: 142898_nurc_.wav
+Referência: que são mapas bastante sofisticados
+Transcrição: são mapas bastante sofisticados
+Duração do áudio: 2.01 segundos
+WER: 0.2000, CER: 0.1143
+Tempo de processamento: 2.39 segundos
+--------------------------------------------------
+Arquivo: 126298_nurc_.wav
+Referência: fala de da
+Transcrição: fala de da
+Duração do áudio: 1.16 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 2.62 segundos
+--------------------------------------------------
+Arquivo: 243384_nurc_.wav
+Referência: se você precisava de um pneumático seu carro tava precisando de um pneumático ia na rua tirava pneumático velho e botava um novo
+Transcrição: 
+Duração do áudio: 6.62 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.30 segundos
+--------------------------------------------------
+Arquivo: 142733_nurc_.wav
+Referência: é santana etcetera
+Transcrição: santana etcetera
+Duração do áudio: 2.21 segundos
+WER: 0.3333, CER: 0.1111
+Tempo de processamento: 2.11 segundos
+--------------------------------------------------
+Arquivo: 45631_sp_.wav
+Referência: não
+Transcrição: não
+Duração do áudio: 0.52 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.61 segundos
+--------------------------------------------------
+Arquivo: 43328_sp_.wav
+Referência: não apesar que eu vou fazer minha sobrancelha no shopping só por isso eu vou no shopping só por isso é bom pra fazer a sobrancelha
+Transcrição: 
+Duração do áudio: 8.61 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.32 segundos
+--------------------------------------------------
+Arquivo: 46089_sp_.wav
+Referência: um descanso de querer um silêncio de querer uma paz
+Transcrição: descanso de querer silêncio de querer uma paz
+Duração do áudio: 2.77 segundos
+WER: 0.2000, CER: 0.1176
+Tempo de processamento: 2.07 segundos
+--------------------------------------------------
+Arquivo: 43033_alip_.wav
+Referência: e
+Transcrição: 
+Duração do áudio: 0.72 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.95 segundos
+--------------------------------------------------
+Arquivo: 46416_sp_.wav
+Referência: urgente
+Transcrição: fugente
+Duração do áudio: 0.83 segundos
+WER: 1.0000, CER: 0.2857
+Tempo de processamento: 1.79 segundos
+--------------------------------------------------
+Arquivo: 128583_nurc_.wav
+Referência: já
+Transcrição: já
+Duração do áudio: 0.55 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.85 segundos
+--------------------------------------------------
+Arquivo: 48427_sp_.wav
+Referência: e porque também a gente é um pouco fresco com essas coisas né só quer coisa da boa só quer roupa
+Transcrição: também a gente é pouco fresco com essas coisas mas só que coisa boa só que roupa
+Duração do áudio: 4.04 segundos
+WER: 0.3333, CER: 0.2083
+Tempo de processamento: 2.37 segundos
+--------------------------------------------------
+Arquivo: 9799_alip_.wav
+Referência: eh há umas árvores também há uma sombra muito gostosa assim as pessoas ficam ali conversam
+Transcrição: há umas árvores também há uma sombra muito gostosa assim as pessoas ficam ali conversam
+Duração do áudio: 7.08 segundos
+WER: 0.0625, CER: 0.0333
+Tempo de processamento: 2.47 segundos
+--------------------------------------------------
+Arquivo: 776_CO_bfammn20.wav
+Referência: tudo que cê quiser cê fala assim eh em nome de deus cai dentro do meu embornal
+Transcrição: tudo que você quiser você fala assim em nome de deus cai dentro do meu irmão não
+Duração do áudio: 5.93 segundos
+WER: 0.2941, CER: 0.1667
+Tempo de processamento: 2.58 segundos
+--------------------------------------------------
+Arquivo: 128244_nurc_.wav
+Referência: né foi ali na basílica do carmo
+Transcrição: foi ali na básica do carmo
+Duração do áudio: 2.86 segundos
+WER: 0.2857, CER: 0.1935
+Tempo de processamento: 2.09 segundos
+--------------------------------------------------
+Arquivo: 62614_nurc_.wav
+Referência: são crianças de uma faixa etária muito maior
+Transcrição: crianças numa faixa etária muito maior
+Duração do áudio: 2.15 segundos
+WER: 0.3750, CER: 0.1591
+Tempo de processamento: 2.01 segundos
+--------------------------------------------------
+Arquivo: 13679_CO_bfammn22.wav
+Referência: tá aqui em casa até hoje
+Transcrição: daqui em casa até hoje
+Duração do áudio: 1.25 segundos
+WER: 0.3333, CER: 0.1250
+Tempo de processamento: 1.73 segundos
+--------------------------------------------------
+Arquivo: 47560_sp_.wav
+Referência: ah que legal
+Transcrição: 
+Duração do áudio: 0.92 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.88 segundos
+--------------------------------------------------
+Arquivo: 45145_sp_.wav
+Referência: passa aí é
+Transcrição: passa aí
+Duração do áudio: 1.33 segundos
+WER: 0.3333, CER: 0.2000
+Tempo de processamento: 1.74 segundos
+--------------------------------------------------
+Arquivo: a4ZFKFLLORE-0159.wav
+Referência: e se o professor não passar a se apoderar desse ma de dessas novas tecnologias essas novas possibilidades
+Transcrição: e se o professor não passasse a apoderar desse dessas novas tecnologias essas novas possibilidades
+Duração do áudio: 8.32 segundos
+WER: 0.2222, CER: 0.1048
+Tempo de processamento: 2.29 segundos
+--------------------------------------------------
+Arquivo: 62567_nurc_.wav
+Referência: também que seja possível
+Transcrição: 
+Duração do áudio: 1.28 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.59 segundos
+--------------------------------------------------
+Arquivo: 71823_sp_.wav
+Referência: rapidez
+Transcrição: sabe bem
+Duração do áudio: 0.64 segundos
+WER: 2.0000, CER: 0.8571
+Tempo de processamento: 1.49 segundos
+--------------------------------------------------
+Arquivo: 5880_CO_bfammn33.wav
+Referência: aí eu tô lá aí começa a tocar uma música que era material girl quem que é essa mulher canta essa música
+Transcrição: aí eu estou lá aí começou aquela música que era material girl quem que essa mulher canta essa música
+Duração do áudio: 7.49 segundos
+WER: 0.2727, CER: 0.1553
+Tempo de processamento: 2.72 segundos
+--------------------------------------------------
+Arquivo: 45196_sp_.wav
+Referência: olhei pra trás e vi dois meninos vindo
+Transcrição: pra trás eu vi dois meninos menino
+Duração do áudio: 2.31 segundos
+WER: 0.3750, CER: 0.2895
+Tempo de processamento: 1.76 segundos
+--------------------------------------------------
+Arquivo: 9730_alip_.wav
+Referência: sondando ele
+Transcrição: sondando ele
+Duração do áudio: 1.80 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.80 segundos
+--------------------------------------------------
+Arquivo: 48431_sp_.wav
+Referência: mas tipo porque a gente tem um gosto diferente
+Transcrição: tipo porque a gente tem gosto diferente
+Duração do áudio: 2.14 segundos
+WER: 0.2222, CER: 0.1522
+Tempo de processamento: 1.69 segundos
+--------------------------------------------------
+Arquivo: 45701_sp_.wav
+Referência: eu acho que é o pessoal que nasceu que nasceu em são paulo
+Transcrição: eu acho que é o pessoal que nasceu que nasceu em são paulo
+Duração do áudio: 4.04 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.93 segundos
+--------------------------------------------------
+Arquivo: 44375_alip_.wav
+Referência: seis meses três meses e meio mais ou menos
+Transcrição: três meses três meses e meio mais ou menos
+Duração do áudio: 3.60 segundos
+WER: 0.1111, CER: 0.0714
+Tempo de processamento: 2.07 segundos
+--------------------------------------------------
+Arquivo: cW7w5NCenxI-0017.wav
+Referência: criança reagiria a esse tipo de sons
+Transcrição: pronto
+Duração do áudio: 11.32 segundos
+WER: 1.0000, CER: 0.8889
+Tempo de processamento: 2.21 segundos
+--------------------------------------------------
+Arquivo: 43314_alip_.wav
+Referência: século vinte e um tô feli
+Transcrição: 
+Duração do áudio: 1.80 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.71 segundos
+--------------------------------------------------
+Arquivo: 46231_sp_.wav
+Referência: esse tipo de ato né mas é
+Transcrição: esse tipo de ato né mas é
+Duração do áudio: 2.06 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.76 segundos
+--------------------------------------------------
+Arquivo: 46491_sp_.wav
+Referência: agora o que eu vou fazer
+Transcrição: agora que eu vou fazer
+Duração do áudio: 1.52 segundos
+WER: 0.1667, CER: 0.0833
+Tempo de processamento: 1.70 segundos
+--------------------------------------------------
+Arquivo: 64529_alip_.wav
+Referência: ele dá meio sono mesmo
+Transcrição: ele dá meio solo nele
+Duração do áudio: 2.32 segundos
+WER: 0.4000, CER: 0.2273
+Tempo de processamento: 1.81 segundos
+--------------------------------------------------
+Arquivo: C_m4EUdcghY-0038.wav
+Referência: e sabe que esta gente ainda no meio das cinzas vai continuar a construir este portugal
+Transcrição: e sei que esta gente ainda no maio das cinzas vai continuar a construir este portugal
+Duração do áudio: 13.88 segundos
+WER: 0.1250, CER: 0.0465
+Tempo de processamento: 3.22 segundos
+--------------------------------------------------
+Arquivo: 126869_nurc_.wav
+Referência: é o que eu acabei de mostrar a ela
+Transcrição: o que eu acabei de mostrar a ela
+Duração do áudio: 1.53 segundos
+WER: 0.1111, CER: 0.0588
+Tempo de processamento: 1.89 segundos
+--------------------------------------------------
+Arquivo: 45935_sp_.wav
+Referência: um novo tratamento sobre um
+Transcrição: novo tratamento sobre
+Duração do áudio: 1.99 segundos
+WER: 0.4000, CER: 0.2222
+Tempo de processamento: 1.95 segundos
+--------------------------------------------------
+Arquivo: 62441_nurc_.wav
+Referência: porque tem coisas muito bonitas aqui na cidade
+Transcrição: 
+Duração do áudio: 2.25 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.93 segundos
+--------------------------------------------------
+Arquivo: 18839_CO_bfammn34.wav
+Referência: eu vou ter a oportunidade de realmente fazer turismo
+Transcrição: ter a oportunidade de realmente fazer turismo
+Duração do áudio: 2.24 segundos
+WER: 0.2222, CER: 0.1346
+Tempo de processamento: 1.93 segundos
+--------------------------------------------------
+Arquivo: 80039_alip_.wav
+Referência: boliche
+Transcrição: 
+Duração do áudio: 0.76 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.71 segundos
+--------------------------------------------------
+Arquivo: 71621_sp_.wav
+Referência: esse érre
+Transcrição: 
+Duração do áudio: 1.09 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.70 segundos
+--------------------------------------------------
+Arquivo: 3509_alip_.wav
+Referência: eh a cor dos olhos eh
+Transcrição: a cor dos olhos
+Duração do áudio: 3.24 segundos
+WER: 0.3333, CER: 0.2857
+Tempo de processamento: 2.35 segundos
+--------------------------------------------------
+Arquivo: aETOz3IGfG0-0134.wav
+Referência: é porque na internet hoje em dia a gente tem acesso a tudo seja na internet seja na televisão seja na da da em filmes desenhos
+Transcrição: na internet hoje em dia a gente tem acesso a tudo seja na internet seja na televisão seja nos filmes desenhos
+Duração do áudio: 8.56 segundos
+WER: 0.2308, CER: 0.1508
+Tempo de processamento: 2.44 segundos
+--------------------------------------------------
+Arquivo: 31466_CO_bfammn24.wav
+Referência: porque o mercado é muito pequeno
+Transcrição: o mercado é muito pequeno
+Duração do áudio: 2.36 segundos
+WER: 0.1667, CER: 0.2188
+Tempo de processamento: 1.94 segundos
+--------------------------------------------------
+Arquivo: 62572_alip_.wav
+Referência: o bigulinho dele
+Transcrição: 
+Duração do áudio: 1.28 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 2.06 segundos
+--------------------------------------------------
+Arquivo: 71681_sp_.wav
+Referência: eu vi umas pessoas eu conheci umas pessoas do belém né eles realmente têm um sotaque muito bacana assim né
+Transcrição: eu vi umas pessoas não conhecemos pessoas do belém né eles realmente tinham sotaque muito bacana assim né
+Duração do áudio: 4.79 segundos
+WER: 0.2500, CER: 0.1038
+Tempo de processamento: 2.13 segundos
+--------------------------------------------------
+Arquivo: 61824_nurc_.wav
+Referência: de uma maneira muito diferente
+Transcrição: uma maneira muito diferente
+Duração do áudio: 1.69 segundos
+WER: 0.2000, CER: 0.1000
+Tempo de processamento: 2.17 segundos
+--------------------------------------------------
+Arquivo: 62552_nurc_.wav
+Referência: maseu acho que seria muito positivo
+Transcrição: 
+Duração do áudio: 1.43 segundos
+WER: 1.0000, CER: 1.0000
+Tempo de processamento: 1.73 segundos
+--------------------------------------------------
+Arquivo: 71536_sp_.wav
+Referência: se você tem um
+Transcrição: se você tem
+Duração do áudio: 1.18 segundos
+WER: 0.2500, CER: 0.2143
+Tempo de processamento: 1.91 segundos
+--------------------------------------------------
+Arquivo: 242548_nurc_.wav
+Referência: são pessoas que vem do exterior ou do próprio estados unidos de outras cidades
+Transcrição: são pessoas que vêm do exterior ou do próprio centro de outras cidades
+Duração do áudio: 4.54 segundos
+WER: 0.2143, CER: 0.1667
+Tempo de processamento: 2.07 segundos
+--------------------------------------------------
+Arquivo: 71389_sp_.wav
+Referência: não é um lugar óbvio
+Transcrição: não é lugar óbvio
+Duração do áudio: 1.41 segundos
+WER: 0.2000, CER: 0.1500
+Tempo de processamento: 2.03 segundos
+--------------------------------------------------
+Arquivo: 71179_sp_.wav
+Referência: essa coisa da
+Transcrição: essa coisa da
+Duração do áudio: 1.25 segundos
+WER: 0.0000, CER: 0.0000
+Tempo de processamento: 1.50 segundos
+--------------------------------------------------
+Média WER: 0.1974
+Média CER: 0.1235
+Tempo médio de processamento por segundo de áudio: 0.6340 s/s
