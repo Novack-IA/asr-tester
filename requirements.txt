@@ -5,3 +5,6 @@ pandas
 pydub
 assemblyai
 num2words
+openai-whisper
+torch
+numpy
