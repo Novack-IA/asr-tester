@@ -4,3 +4,4 @@ jiwer
 pandas 
 pydub
 assemblyai
+num2words

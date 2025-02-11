@@ -1,0 +1,1005 @@
+Log de Transcrição - Whisper
+==================================================
+Arquivo: 142957_nurc_.wav
+Referência sem norm: mas agora por exemplo da população
+Transcrição sem norm: Agora, por exemplo, da população.
+Referência: mas agora por exemplo da população
+Transcrição: agora por exemplo da população
+WER: 0.1667, CER: 0.1176
+Duração do áudio: 1.91 segundos
+Tempo de processamento: 3.16 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 46180_sp_.wav
+Referência sem norm: bate no teu vidro quebra teu vidro e pega tuas coisas ou de repente você está andando na rua
+Transcrição sem norm: Bate no teu vidro, quebra o teu vidro e pegue as coisas. Daí você tá andando na rua.
+Referência: bate no teu vidro quebra teu vidro e pega tuas coisas ou de repente você está andando na rua
+Transcrição: bate no teu vidro quebra o teu vidro e pegue as coisas daí você tá andando na rua
+WER: 0.3684, CER: 0.2174
+Duração do áudio: 4.32 segundos
+Tempo de processamento: 3.44 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 71874_sp_.wav
+Referência sem norm: choveu tanto tanto na semana passada que ficou uma piscina na minha casa
+Transcrição sem norm: Chegueu o tempo, o tempo na semana passada que ficou uma tucina na minha casa.
+Referência: choveu tanto tanto na semana passada que ficou uma piscina na minha casa
+Transcrição: chegueu o tempo o tempo na semana passada que ficou uma tucina na minha casa
+WER: 0.4615, CER: 0.2222
+Duração do áudio: 3.43 segundos
+Tempo de processamento: 3.06 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 127758_nurc_.wav
+Referência sem norm: disfunção de ovário
+Transcrição sem norm: Aeternal ou protocolo de uma
+Referência: disfunção de ovário
+Transcrição: aeternal ou protocolo de uma
+WER: 1.3333, CER: 1.2632
+Duração do áudio: 1.39 segundos
+Tempo de processamento: 16.05 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 5744_CO_bfammn25.wav
+Referência sem norm: aí eu comecei a trabalhar aí as coisas começaram a complicar porque trabalhava de dia estudava à noite chegava de madrugada em casa levantava cedo pra trabalhar então eu num tinha tempo pra nada
+Transcrição sem norm: Aí eu comecei a trabalhar, aí as coisas começaram a complicar, porque trabalhava dia, estudava à noite, chegava de madrugada em casa, levantava cedo pra trabalhar, então não tinha tempo pra nada.
+Referência: aí eu comecei a trabalhar aí as coisas começaram a complicar porque trabalhava de dia estudava à noite chegava de madrugada em casa levantava cedo pra trabalhar então eu num tinha tempo pra nada
+Transcrição: aí eu comecei a trabalhar aí as coisas começaram a complicar porque trabalhava dia estudava à noite chegava de madrugada em casa levantava cedo pra trabalhar então não tinha tempo pra nada
+WER: 0.0882, CER: 0.0412
+Duração do áudio: 20.47 segundos
+Tempo de processamento: 4.68 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 62606_nurc_.wav
+Referência sem norm: é culpa da população
+Transcrição sem norm: 
+Referência: é culpa da população
+Transcrição: 
+WER: 1.0000, CER: 1.0000
+Duração do áudio: 1.15 segundos
+Tempo de processamento: 2.68 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 46250_sp_.wav
+Referência sem norm: não eu posso te dizer com certeza
+Transcrição sem norm: Não eu posso dizer como certeza...
+Referência: não eu posso te dizer com certeza
+Transcrição: não eu posso dizer como certeza
+WER: 0.2857, CER: 0.1212
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 2.92 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 43580_sp_.wav
+Referência sem norm: eu não sei fazer porque aquela língua ali eu não sei porque não sei nem um porque e nem um porque é uma língua que eu um érre
+Transcrição sem norm: Eu não sei fazer, não tenho a língua ali, eu não sei porque não usai nenhum porque e nenhum porque é uma língua de um R.
+Referência: eu não sei fazer porque aquela língua ali eu não sei porque não sei nem um porque e nem um porque é uma língua que eu um érre
+Transcrição: eu não sei fazer não tenho a língua ali eu não sei porque não usai nenhum porque e nenhum porque é uma língua de um r
+WER: 0.3929, CER: 0.2000
+Duração do áudio: 9.03 segundos
+Tempo de processamento: 4.32 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 62677_alip_.wav
+Referência sem norm: eu tava numa cantarola lá
+Transcrição sem norm: que está vindo mais tanta hora lá.
+Referência: eu tava numa cantarola lá
+Transcrição: que está vindo mais tanta hora lá
+WER: 1.2000, CER: 0.6800
+Duração do áudio: 1.88 segundos
+Tempo de processamento: 5.89 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 40361_alip_.wav
+Referência sem norm: por ele tá meio sentido o problema de família a gente
+Transcrição sem norm: Por ele estar meio sentido por vindo família, gente.
+Referência: por ele tá meio sentido o problema de família a gente
+Transcrição: por ele estar meio sentido por vindo família gente
+WER: 0.4545, CER: 0.3019
+Duração do áudio: 3.40 segundos
+Tempo de processamento: 2.94 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 28597_CO_bfammn23.wav
+Referência sem norm: tem que falar de pizza
+Transcrição sem norm: Um, dois, três, dois, três, sete, dois, três, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete, sete
+Referência: tem que falar de pizza
+Transcrição: um dois três dois três sete dois três sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete sete
+WER: 15.4000, CER: 17.0000
+Duração do áudio: 2.10 segundos
+Tempo de processamento: 13.34 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 70980_sp_.wav
+Referência sem norm: eu falo muito com meus primos eu saio com eles assim
+Transcrição sem norm: Eu falo muito com meus primos, eu saio com eles.
+Referência: eu falo muito com meus primos eu saio com eles assim
+Transcrição: eu falo muito com meus primos eu saio com eles
+WER: 0.0909, CER: 0.1154
+Duração do áudio: 2.74 segundos
+Tempo de processamento: 3.06 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 142994_nurc_.wav
+Referência sem norm: na demonstração é da análise
+Transcrição sem norm: na demonstração da análise.
+Referência: na demonstração é da análise
+Transcrição: na demonstração da análise
+WER: 0.2000, CER: 0.0714
+Duração do áudio: 4.19 segundos
+Tempo de processamento: 2.64 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 126310_nurc_.wav
+Referência sem norm: ou tá diminuido
+Transcrição sem norm: ou diminuir.
+Referência: ou tá diminuido
+Transcrição: ou diminuir
+WER: 0.6667, CER: 0.3333
+Duração do áudio: 1.40 segundos
+Tempo de processamento: 2.65 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: a24A8MyzR2Y-0078.wav
+Referência sem norm: a gente tem preconceito etário dentro das empresas a partir dos quarenta e cinco anos de idade eu vi casas inteligentes
+Transcrição sem norm: A gente tem preconceito etário dentro das empresas a partir dos 45 anos de idade. Eu vi casas inteligentes.
+Referência: a gente tem preconceito etário dentro das empresas a partir dos quarenta e cinco anos de idade eu vi casas inteligentes
+Transcrição: a gente tem preconceito etário dentro das empresas a partir dos quarenta e cinco anos de idade eu vi casas inteligentes
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 10.60 segundos
+Tempo de processamento: 3.86 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 243139_nurc_.wav
+Referência sem norm: ninguém mais tem medo de de avião
+Transcrição sem norm: Ninguém mais tem medo de isso que havia.
+Referência: ninguém mais tem medo de de avião
+Transcrição: ninguém mais tem medo de isso que havia
+WER: 0.4286, CER: 0.3030
+Duração do áudio: 1.71 segundos
+Tempo de processamento: 2.74 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: AB8_pog3Lt8-0069.wav
+Referência sem norm: e o que que a gente pode fazer para que não seja assim existe muitas respostas
+Transcrição sem norm: E o que a gente pode fazer para que não seja assim? Existem muitas respostas...
+Referência: e o que que a gente pode fazer para que não seja assim existe muitas respostas
+Transcrição: e o que a gente pode fazer para que não seja assim existem muitas respostas
+WER: 0.1250, CER: 0.0641
+Duração do áudio: 6.80 segundos
+Tempo de processamento: 3.67 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 42562_alip_.wav
+Referência sem norm: né principalmente depois que colocaram ele na banda ele não tava me agradando
+Transcrição sem norm: رة aqui e na burra vaigrid onde okay
+Referência: né principalmente depois que colocaram ele na banda ele não tava me agradando
+Transcrição: aqui e na burra vaigrid onde okay
+WER: 0.9231, CER: 0.7922
+Duração do áudio: 3.96 segundos
+Tempo de processamento: 26.68 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 127248_nurc_.wav
+Referência sem norm: e algumas que levam de casa
+Transcrição sem norm: e alguns que levam de casa.
+Referência: e algumas que levam de casa
+Transcrição: e alguns que levam de casa
+WER: 0.1667, CER: 0.0741
+Duração do áudio: 2.44 segundos
+Tempo de processamento: 2.74 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 71160_sp_.wav
+Referência sem norm: muitos filmes que se passam em são paulo
+Transcrição sem norm: muitos filmes que se passam em São Paulo.
+Referência: muitos filmes que se passam em são paulo
+Transcrição: muitos filmes que se passam em são paulo
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.81 segundos
+Tempo de processamento: 2.81 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: A4wi3jmf9uY-0106.wav
+Referência sem norm: o bem e pra gente testar o algoritmo a gente usa desse outro brinquedinho aqui que o cara bota na
+Transcrição sem norm: O bem. E para a gente testar o algoritmo, a gente usa esse outro brinquedinho aqui, que o cara bota na capa...
+Referência: o bem e pra gente testar o algoritmo a gente usa desse outro brinquedinho aqui que o cara bota na
+Transcrição: o bem e para a gente testar o algoritmo a gente usa esse outro brinquedinho aqui que o cara bota na capa
+WER: 0.2000, CER: 0.0928
+Duração do áudio: 6.12 segundos
+Tempo de processamento: 4.28 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 143060_nurc_.wav
+Referência sem norm: tá certo então o programa da
+Transcrição sem norm: Então, o programa está bem?
+Referência: tá certo então o programa da
+Transcrição: então o programa está bem
+WER: 0.6667, CER: 0.6071
+Duração do áudio: 2.87 segundos
+Tempo de processamento: 14.85 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 45896_sp_.wav
+Referência sem norm: direta ou indireta né porque mesmo na parte de promoção tinha que apresentar
+Transcrição sem norm: direta ou indireta, na parte de promoção tinha que apresentar
+Referência: direta ou indireta né porque mesmo na parte de promoção tinha que apresentar
+Transcrição: direta ou indireta na parte de promoção tinha que apresentar
+WER: 0.2308, CER: 0.2105
+Duração do áudio: 4.22 segundos
+Tempo de processamento: 3.16 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: aXZ9Cb9ffE8-0005.wav
+Referência sem norm: eu escolhi que é a do aristóteles que fala sobre onde meus talentos e paixões se encontram com as
+Transcrição sem norm: escolhi, que é do Aristóteles, que fala sobre onde meus talentos e paixões se encontram com as...
+Referência: eu escolhi que é a do aristóteles que fala sobre onde meus talentos e paixões se encontram com as
+Transcrição: escolhi que é do aristóteles que fala sobre onde meus talentos e paixões se encontram com as
+WER: 0.1053, CER: 0.0515
+Duração do áudio: 7.92 segundos
+Tempo de processamento: 3.59 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: a8gyl6MPHsI-0073.wav
+Referência sem norm: né é realmente fazer coincidir interesses privados interesses genuinamente públicos eh e é por isso que eu digo
+Transcrição sem norm: É realmente fazer coincidir interesses privados, interesses genuinamente públicos. E é por isso que eu digo que...
+Referência: né é realmente fazer coincidir interesses privados interesses genuinamente públicos eh e é por isso que eu digo
+Transcrição: é realmente fazer coincidir interesses privados interesses genuinamente públicos e é por isso que eu digo que
+WER: 0.1667, CER: 0.0901
+Duração do áudio: 9.00 segundos
+Tempo de processamento: 3.92 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 242971_nurc_.wav
+Referência sem norm: eu não posso dizer do rio nem de são paulo porque eu não andei
+Transcrição sem norm: Eu não posso dizer do Rio, nem São Paulo, que eu não andei.
+Referência: eu não posso dizer do rio nem de são paulo porque eu não andei
+Transcrição: eu não posso dizer do rio nem são paulo que eu não andei
+WER: 0.1429, CER: 0.0968
+Duração do áudio: 3.66 segundos
+Tempo de processamento: 3.11 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 242529_nurc_.wav
+Referência sem norm: então a gente tem noção exata de tudo que tem naquele cenário
+Transcrição sem norm: Então a gente tem uma hoça exata de tudo que tem naquele centro.
+Referência: então a gente tem noção exata de tudo que tem naquele cenário
+Transcrição: então a gente tem uma hoça exata de tudo que tem naquele centro
+WER: 0.2500, CER: 0.1475
+Duração do áudio: 4.34 segundos
+Tempo de processamento: 3.15 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 140666_nurc_.wav
+Referência sem norm: ao aspecto anatômico fisiológico
+Transcrição sem norm: ao aspecto anatômico-fisiológico.
+Referência: ao aspecto anatômico fisiológico
+Transcrição: ao aspecto anatômicofisiológico
+WER: 0.5000, CER: 0.0312
+Duração do áudio: 2.77 segundos
+Tempo de processamento: 2.78 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 2570_CO_bfammn10.wav
+Referência sem norm: daí eu falei ah eu não vou deixar isso aqui
+Transcrição sem norm: e o plano vou deixar isso aqui.
+Referência: daí eu falei ah eu não vou deixar isso aqui
+Transcrição: e o plano vou deixar isso aqui
+WER: 0.6000, CER: 0.3721
+Duração do áudio: 1.06 segundos
+Tempo de processamento: 2.74 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 140852_nurc_.wav
+Referência sem norm: o que vem a ser significado
+Transcrição sem norm: O que venha a ser significado?
+Referência: o que vem a ser significado
+Transcrição: o que venha a ser significado
+WER: 0.1667, CER: 0.1111
+Duração do áudio: 1.81 segundos
+Tempo de processamento: 2.90 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 3558_alip_.wav
+Referência sem norm: achar e algumas corridas
+Transcrição sem norm: e a Com advantage nesta eles.
+Referência: achar e algumas corridas
+Transcrição: e a com advantage nesta eles
+WER: 1.5000, CER: 0.9583
+Duração do áudio: 1.64 segundos
+Tempo de processamento: 25.08 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 44942_sp_.wav
+Referência sem norm: e minha mãe que tem medo de maizena
+Transcrição sem norm: e minha line, que tem que ver succeed o quê?
+Referência: e minha mãe que tem medo de maizena
+Transcrição: e minha line que tem que ver succeed o quê
+WER: 0.7500, CER: 0.6000
+Duração do áudio: 3.33 segundos
+Tempo de processamento: 19.08 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 140939_nurc_.wav
+Referência sem norm: do mecanismo intelectual do homem dos processos mentais
+Transcrição sem norm: do mecanismo intelectual do homem, dos processos mentais.
+Referência: do mecanismo intelectual do homem dos processos mentais
+Transcrição: do mecanismo intelectual do homem dos processos mentais
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 4.13 segundos
+Tempo de processamento: 4.04 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 44935_sp_.wav
+Referência sem norm: e no jardins eu morei onze
+Transcrição sem norm: e nos jardins amorei 11.
+Referência: e no jardins eu morei onze
+Transcrição: e nos jardins amorei onze
+WER: 0.5000, CER: 0.1538
+Duração do áudio: 2.40 segundos
+Tempo de processamento: 3.47 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 62213_nurc_.wav
+Referência sem norm: uma necessidade de estar junto do outro
+Transcrição sem norm: uma necessidade de estar junto do outro.
+Referência: uma necessidade de estar junto do outro
+Transcrição: uma necessidade de estar junto do outro
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.72 segundos
+Tempo de processamento: 3.75 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 2411_CO_bfammn10.wav
+Referência sem norm: bom
+Transcrição sem norm: Bom.
+Referência: bom
+Transcrição: bom
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 0.77 segundos
+Tempo de processamento: 2.78 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 128510_nurc_.wav
+Referência sem norm: vai no forno
+Transcrição sem norm: como é de Baltimore.</p><p XL MÊNIUS 6 MÊNICOS 9 MÊNICOS 9 MÊNICOS 9 MÊNICOS 10 MÊNICOS 15 MÊNICOS 16 MÊNICOS 16 MÊNICOS 18 MÊNICOS 18 MÊNICOS 19 MÊNICOS 20 MÊNICOS 20 MÊNICOS 22 MÊNICOS 25 MÊNICOS 19 MÊNICOS 25 MÊNICOS 29 MÊNICOSGRASS
+Referência: vai no forno
+Transcrição: como é de baltimorepp xl mênius seis mênicos nove mênicos nove mênicos nove mênicos dez mênicos quinze mênicos dezesseis mênicos dezesseis mênicos dezoito mênicos dezoito mênicos dezenove mênicos vinte mênicos vinte mênicos vinte e dois mênicos vinte e cinco mênicos dezenove mênicos vinte e cinco mênicos vinte e nove mênicosgrass
+WER: 16.6667, CER: 26.8333
+Duração do áudio: 1.13 segundos
+Tempo de processamento: 25.96 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 128086_nurc_.wav
+Referência sem norm: eu acho que a tendência tá cada vez
+Transcrição sem norm: Eu acho que é tendência, tá cada vez...
+Referência: eu acho que a tendência tá cada vez
+Transcrição: eu acho que é tendência tá cada vez
+WER: 0.1250, CER: 0.0286
+Duração do áudio: 2.08 segundos
+Tempo de processamento: 3.15 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 242703_nurc_.wav
+Referência sem norm: onde eles tem certos a religião deles é interessante
+Transcrição sem norm: onde eles têm certos a religião deles é interessante.
+Referência: onde eles tem certos a religião deles é interessante
+Transcrição: onde eles têm certos a religião deles é interessante
+WER: 0.1111, CER: 0.0192
+Duração do áudio: 5.35 segundos
+Tempo de processamento: 3.33 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 126970_nurc_.wav
+Referência sem norm: porque antigamente aquelas bolsas
+Transcrição sem norm: que vai passa pelas boas res Cru 얼었
+Referência: porque antigamente aquelas bolsas
+Transcrição: que vai passa pelas boas res cru
+WER: 1.7500, CER: 0.7273
+Duração do áudio: 1.39 segundos
+Tempo de processamento: 18.57 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 61512_nurc_.wav
+Referência sem norm: e a pessoa tem que ser racional
+Transcrição sem norm: episode frankly
+Referência: e a pessoa tem que ser racional
+Transcrição: episode frankly
+WER: 1.0000, CER: 0.7097
+Duração do áudio: 1.52 segundos
+Tempo de processamento: 17.92 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 45386_sp_.wav
+Referência sem norm: é é uma região próxima então vocês vocês se mudaram
+Transcrição sem norm: É uma região próxima, então vocês mudaram?
+Referência: é é uma região próxima então vocês vocês se mudaram
+Transcrição: é uma região próxima então vocês mudaram
+WER: 0.3000, CER: 0.2157
+Duração do áudio: 3.55 segundos
+Tempo de processamento: 3.33 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 45737_sp_.wav
+Referência sem norm: porque quando como eu não cresci vendo isso então pra mim foi um pouco mais difícil me acostumar
+Transcrição sem norm: Porque quando, como eu não cresci vendo isso, então pra mim foi um pouco mais difícil me acostumar.
+Referência: porque quando como eu não cresci vendo isso então pra mim foi um pouco mais difícil me acostumar
+Transcrição: porque quando como eu não cresci vendo isso então pra mim foi um pouco mais difícil me acostumar
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 5.18 segundos
+Tempo de processamento: 4.03 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 14487_CO_bfammn31.wav
+Referência sem norm: eh e aí tem toda uma atenção diferenciada e até então
+Transcrição sem norm: E aí tem toda uma tensão diferenciada.
+Referência: eh e aí tem toda uma atenção diferenciada e até então
+Transcrição: e aí tem toda uma tensão diferenciada
+WER: 0.4545, CER: 0.3208
+Duração do áudio: 3.45 segundos
+Tempo de processamento: 3.51 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 195037_nurc_.wav
+Referência sem norm: eh em a aquela pessoa que faz
+Transcrição sem norm: Tem, é, aquela pessoa que faz...
+Referência: eh em a aquela pessoa que faz
+Transcrição: tem é aquela pessoa que faz
+WER: 0.4286, CER: 0.1379
+Duração do áudio: 3.03 segundos
+Tempo de processamento: 3.40 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 80037_alip_.wav
+Referência sem norm: ah
+Transcrição sem norm: Cara.
+Referência: ah
+Transcrição: cara
+WER: 1.0000, CER: 1.5000
+Duração do áudio: 0.88 segundos
+Tempo de processamento: 16.56 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 48771_sp_.wav
+Referência sem norm: sim
+Transcrição sem norm: immer migrated uma círculo inclusive.
+Referência: sim
+Transcrição: immer migrated uma círculo inclusive
+WER: 5.0000, CER: 11.3333
+Duração do áudio: 0.44 segundos
+Tempo de processamento: 36.90 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 44198_alip_.wav
+Referência sem norm: e foi até
+Transcrição sem norm: E fui até...
+Referência: e foi até
+Transcrição: e fui até
+WER: 0.3333, CER: 0.1111
+Duração do áudio: 0.84 segundos
+Tempo de processamento: 2.78 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 48150_sp_.wav
+Referência sem norm: iriam embora da cidade se pudessem
+Transcrição sem norm: iriam embora da cidade se pudesse.
+Referência: iriam embora da cidade se pudessem
+Transcrição: iriam embora da cidade se pudesse
+WER: 0.1667, CER: 0.0294
+Duração do áudio: 2.28 segundos
+Tempo de processamento: 3.26 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 14387_CO_bfammn31.wav
+Referência sem norm: pra ver que que a gente ia ter e
+Transcrição sem norm: para ver o que a gente ia ter.
+Referência: pra ver que que a gente ia ter e
+Transcrição: para ver o que a gente ia ter
+WER: 0.3333, CER: 0.1875
+Duração do áudio: 2.43 segundos
+Tempo de processamento: 3.04 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 64486_alip_.wav
+Referência sem norm: que eu podia operar
+Transcrição sem norm: que não fui operar.
+Referência: que eu podia operar
+Transcrição: que não fui operar
+WER: 0.5000, CER: 0.3684
+Duração do áudio: 1.40 segundos
+Tempo de processamento: 2.95 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: aXZ9Cb9ffE8-0063.wav
+Referência sem norm: pra conectar investidores e empreendedores investidores que acreditassem no potencial daqueles empreendedores lá do começo né
+Transcrição sem norm: para conectar investidores e empreendedores. Investidores que acreditassem no potencial daqueles empreendedores lá do começo.
+Referência: pra conectar investidores e empreendedores investidores que acreditassem no potencial daqueles empreendedores lá do começo né
+Transcrição: para conectar investidores e empreendedores investidores que acreditassem no potencial daqueles empreendedores lá do começo
+WER: 0.1250, CER: 0.0320
+Duração do áudio: 15.72 segundos
+Tempo de processamento: 4.16 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 142756_nurc_.wav
+Referência sem norm: né
+Transcrição sem norm: Ah!
+Referência: né
+Transcrição: ah
+WER: 1.0000, CER: 1.0000
+Duração do áudio: 0.53 segundos
+Tempo de processamento: 17.12 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 2552_CO_bfammn10.wav
+Referência sem norm: e aí
+Transcrição sem norm: E aí?
+Referência: e aí
+Transcrição: e aí
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.08 segundos
+Tempo de processamento: 2.84 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 45756_sp_.wav
+Referência sem norm: e hoje em dia tá um pouco diferente como que você acha que é isso em são paulo
+Transcrição sem norm: e hoje vamos ver se está um pouco diferente. Como você acha que é isso em São Paulo?
+Referência: e hoje em dia tá um pouco diferente como que você acha que é isso em são paulo
+Transcrição: e hoje vamos ver se está um pouco diferente como você acha que é isso em são paulo
+WER: 0.2778, CER: 0.2051
+Duração do áudio: 3.44 segundos
+Tempo de processamento: 3.73 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 128317_nurc_.wav
+Referência sem norm: e a camisinha
+Transcrição sem norm: E a camisinha?
+Referência: e a camisinha
+Transcrição: e a camisinha
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.10 segundos
+Tempo de processamento: 3.18 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 47623_sp_.wav
+Referência sem norm: não
+Transcrição sem norm: Não.
+Referência: não
+Transcrição: não
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 0.93 segundos
+Tempo de processamento: 2.86 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 43596_sp_.wav
+Referência sem norm: a maiori a maioria dos desalojados continua em escolas municipais e com o início do ano letivo temem não ter para onde ir
+Transcrição sem norm: A maioria dos desalojados continuem escolas municipais e com o início do ano letivo temem não ter para um dinheiro.
+Referência: a maiori a maioria dos desalojados continua em escolas municipais e com o início do ano letivo temem não ter para onde ir
+Transcrição: a maioria dos desalojados continuem escolas municipais e com o início do ano letivo temem não ter para um dinheiro
+WER: 0.2609, CER: 0.1570
+Duração do áudio: 7.41 segundos
+Tempo de processamento: 4.36 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 47795_sp_.wav
+Referência sem norm: aí eu fiquei três anos lá foi meu primeiro emprego
+Transcrição sem norm: Eu fiquei três anos lá, foi o meu primeiro emprego.
+Referência: aí eu fiquei três anos lá foi meu primeiro emprego
+Transcrição: eu fiquei três anos lá foi o meu primeiro emprego
+WER: 0.2000, CER: 0.1000
+Duração do áudio: 2.46 segundos
+Tempo de processamento: 3.37 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 61795_nurc_.wav
+Referência sem norm: mas eu saberia como me sair
+Transcrição sem norm: mas eu sabia como sair
+Referência: mas eu saberia como me sair
+Transcrição: mas eu sabia como sair
+WER: 0.3333, CER: 0.1852
+Duração do áudio: 1.53 segundos
+Tempo de processamento: 3.07 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: a8gyl6MPHsI-0008.wav
+Referência sem norm: mas eu vou fazer sem nenhum pudor porque ééé foi einstein mesmo que nos ensinou que é mais importante
+Transcrição sem norm: Mas eu vou fazer sem nenhum pudor, porque foi Einstein mesmo que nos ensinou, que é mais importante.
+Referência: mas eu vou fazer sem nenhum pudor porque ééé foi einstein mesmo que nos ensinou que é mais importante
+Transcrição: mas eu vou fazer sem nenhum pudor porque foi einstein mesmo que nos ensinou que é mais importante
+WER: 0.0526, CER: 0.0396
+Duração do áudio: 6.08 segundos
+Tempo de processamento: 3.72 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 242559_nurc_.wav
+Referência sem norm: tem até carruagem dentro da do palco
+Transcrição sem norm: tem até carruagem dentro dos palos.
+Referência: tem até carruagem dentro da do palco
+Transcrição: tem até carruagem dentro dos palos
+WER: 0.4286, CER: 0.1667
+Duração do áudio: 2.75 segundos
+Tempo de processamento: 2.94 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 44996_sp_.wav
+Referência sem norm: eu não sabia nada de lá porque nunca tinha
+Transcrição sem norm: Eu não sabia nada de lá porque nunca tinha...
+Referência: eu não sabia nada de lá porque nunca tinha
+Transcrição: eu não sabia nada de lá porque nunca tinha
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.40 segundos
+Tempo de processamento: 3.21 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 80587_alip_.wav
+Referência sem norm: aí que morre não morre morre não morre aí foram rezar rezamos
+Transcrição sem norm: É. Aí morre, morre, morre, morre, morre. É por exagerar, é por exagerar.
+Referência: aí que morre não morre morre não morre aí foram rezar rezamos
+Transcrição: é aí morre morre morre morre morre é por exagerar é por exagerar
+WER: 0.7500, CER: 0.5410
+Duração do áudio: 4.24 segundos
+Tempo de processamento: 30.46 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 9825_alip_.wav
+Referência sem norm: há várias salas também com
+Transcrição sem norm: A varia sala também com...
+Referência: há várias salas também com
+Transcrição: a varia sala também com
+WER: 0.6000, CER: 0.1923
+Duração do áudio: 3.32 segundos
+Tempo de processamento: 2.91 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 62233_nurc_.wav
+Referência sem norm: mas você tenta ajustar
+Transcrição sem norm: Mas você tenta ajustar.
+Referência: mas você tenta ajustar
+Transcrição: mas você tenta ajustar
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.78 segundos
+Tempo de processamento: 2.81 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 9919_alip_.wav
+Referência sem norm: aí por uma uma coisa ou outra você acaba tendo que fazer um exame e tá lá o resultado
+Transcrição sem norm: Aí por uma coisa ou outra você acaba tendo que fazer um isôneo e tá lá o resultado.
+Referência: aí por uma uma coisa ou outra você acaba tendo que fazer um exame e tá lá o resultado
+Transcrição: aí por uma coisa ou outra você acaba tendo que fazer um isôneo e tá lá o resultado
+WER: 0.1053, CER: 0.1059
+Duração do áudio: 5.72 segundos
+Tempo de processamento: 3.77 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 126319_nurc_.wav
+Referência sem norm: braços
+Transcrição sem norm: Graças!
+Referência: braços
+Transcrição: graças
+WER: 1.0000, CER: 0.3333
+Duração do áudio: 0.88 segundos
+Tempo de processamento: 2.85 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: aETOz3IGfG0-0009.wav
+Referência sem norm: criança eu lembro que quando criança eu não queria usar black power porque eu achava feia
+Transcrição sem norm: criança. Eu lembro que quando criança não queria usar Black Power, que eu achava feia.
+Referência: criança eu lembro que quando criança eu não queria usar black power porque eu achava feia
+Transcrição: criança eu lembro que quando criança não queria usar black power que eu achava feia
+WER: 0.1250, CER: 0.0674
+Duração do áudio: 5.08 segundos
+Tempo de processamento: 3.72 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: aETOz3IGfG0-0042.wav
+Referência sem norm: nada não pra não sobrar pra mim mais e e o policial pegou e olhou para trás
+Transcrição sem norm: Nada não, só não sobrar pra mim mais. E o Fliçal pegou e olhou pra trás.
+Referência: nada não pra não sobrar pra mim mais e e o policial pegou e olhou para trás
+Transcrição: nada não só não sobrar pra mim mais e o fliçal pegou e olhou pra trás
+WER: 0.2353, CER: 0.1333
+Duração do áudio: 6.12 segundos
+Tempo de processamento: 3.87 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 13649_CO_bfammn22.wav
+Referência sem norm: paulinho é uma criatura maravilhosa na nossa vida
+Transcrição sem norm: Paulinho é uma criatura maravilhosa na nossa vida.
+Referência: paulinho é uma criatura maravilhosa na nossa vida
+Transcrição: paulinho é uma criatura maravilhosa na nossa vida
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 4.68 segundos
+Tempo de processamento: 3.29 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 126488_nurc_.wav
+Referência sem norm: tem psicose
+Transcrição sem norm: religioni que se conhece em
+Referência: tem psicose
+Transcrição: religioni que se conhece em
+WER: 2.5000, CER: 1.9091
+Duração do áudio: 1.27 segundos
+Tempo de processamento: 14.82 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 46045_sp_.wav
+Referência sem norm: você vai ficar ali
+Transcrição sem norm: Tchau, Avcali!
+Referência: você vai ficar ali
+Transcrição: tchau avcali
+WER: 1.0000, CER: 0.6111
+Duração do áudio: 0.86 segundos
+Tempo de processamento: 2.92 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 127818_nurc_.wav
+Referência sem norm: e herdou e toma rémedio
+Transcrição sem norm: E é doido, mas é melhor.
+Referência: e herdou e toma rémedio
+Transcrição: e é doido mas é melhor
+WER: 1.0000, CER: 0.6087
+Duração do áudio: 2.23 segundos
+Tempo de processamento: 2.93 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 31466_CO_bfammn24.wav
+Referência sem norm: porque o mercado é muito pequeno
+Transcrição sem norm: porque o mercado é muito pequeno.
+Referência: porque o mercado é muito pequeno
+Transcrição: porque o mercado é muito pequeno
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.36 segundos
+Tempo de processamento: 3.06 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 142854_nurc_.wav
+Referência sem norm: em algum órgão
+Transcrição sem norm: em algum órgão?
+Referência: em algum órgão
+Transcrição: em algum órgão
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.16 segundos
+Tempo de processamento: 3.03 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 11785_CO_bfammn35.wav
+Referência sem norm: sabe
+Transcrição sem norm: Tente!
+Referência: sabe
+Transcrição: tente
+WER: 1.0000, CER: 1.0000
+Duração do áudio: 0.64 segundos
+Tempo de processamento: 15.01 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 47620_sp_.wav
+Referência sem norm: isso
+Transcrição sem norm: E isso.
+Referência: isso
+Transcrição: e isso
+WER: 1.0000, CER: 0.5000
+Duração do áudio: 0.65 segundos
+Tempo de processamento: 2.79 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 46515_sp_.wav
+Referência sem norm: coisa mais ridícula do mundo
+Transcrição sem norm: Fazer mais um dia com todo mundo.
+Referência: coisa mais ridícula do mundo
+Transcrição: fazer mais um dia com todo mundo
+WER: 1.0000, CER: 0.5714
+Duração do áudio: 1.53 segundos
+Tempo de processamento: 2.86 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 8234_CO_bfamcv20.wav
+Referência sem norm: agora por falta de cuidado é outra coisa né
+Transcrição sem norm: Agora por falta de cuidado é outra coisa, né?
+Referência: agora por falta de cuidado é outra coisa né
+Transcrição: agora por falta de cuidado é outra coisa né
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.83 segundos
+Tempo de processamento: 3.12 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 127986_nurc_.wav
+Referência sem norm: então vou ficar feito galinha
+Transcrição sem norm: Para deficar, consulte-se na navy.
+Referência: então vou ficar feito galinha
+Transcrição: para deficar consultese na navy
+WER: 1.0000, CER: 0.8276
+Duração do áudio: 1.14 segundos
+Tempo de processamento: 16.37 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 13598_CO_bfammn22.wav
+Referência sem norm: mas falei cê volta que dia
+Transcrição sem norm: mas falei isso eu volto aqui dia
+Referência: mas falei cê volta que dia
+Transcrição: mas falei isso eu volto aqui dia
+WER: 0.6667, CER: 0.3846
+Duração do áudio: 1.92 segundos
+Tempo de processamento: 2.87 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: A4wi3jmf9uY-0128.wav
+Referência sem norm: esses grafiteiros tão loucos para arrumar um espaço pra ir lá e mostrar a arte deles mostrar as
+Transcrição sem norm: Esses grafiteiros estão loucos para arrumar um espaço para ir lá e mostrar a arte deles, mostrar isso.
+Referência: esses grafiteiros tão loucos para arrumar um espaço pra ir lá e mostrar a arte deles mostrar as
+Transcrição: esses grafiteiros estão loucos para arrumar um espaço para ir lá e mostrar a arte deles mostrar isso
+WER: 0.1667, CER: 0.0632
+Duração do áudio: 6.12 segundos
+Tempo de processamento: 3.92 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 127565_nurc_.wav
+Referência sem norm: eu sou pequena eu não sou grande
+Transcrição sem norm: Eu sou pequena, não sou grande.
+Referência: eu sou pequena eu não sou grande
+Transcrição: eu sou pequena não sou grande
+WER: 0.1429, CER: 0.0938
+Duração do áudio: 1.71 segundos
+Tempo de processamento: 3.00 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 242857_nurc_.wav
+Referência sem norm: nós verificamos o seguinte
+Transcrição sem norm: Não verificamos o signo.
+Referência: nós verificamos o seguinte
+Transcrição: não verificamos o signo
+WER: 0.5000, CER: 0.2692
+Duração do áudio: 2.57 segundos
+Tempo de processamento: 3.12 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 61824_nurc_.wav
+Referência sem norm: de uma maneira muito diferente
+Transcrição sem norm: Eu não era muito ferida.
+Referência: de uma maneira muito diferente
+Transcrição: eu não era muito ferida
+WER: 0.8000, CER: 0.5000
+Duração do áudio: 1.69 segundos
+Tempo de processamento: 2.94 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 61551_nurc_.wav
+Referência sem norm: você acredita que é uma vida
+Transcrição sem norm: Você acredita que é um vida?
+Referência: você acredita que é uma vida
+Transcrição: você acredita que é um vida
+WER: 0.1667, CER: 0.0357
+Duração do áudio: 1.77 segundos
+Tempo de processamento: 3.38 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 47600_sp_.wav
+Referência sem norm: tem minha tia a minha prima a filha dela mora praticamente todo mundo perto
+Transcrição sem norm: que é minha tia, minha prima, filha dela, e mora praticamente todo mundo perto.
+Referência: tem minha tia a minha prima a filha dela mora praticamente todo mundo perto
+Transcrição: que é minha tia minha prima filha dela e mora praticamente todo mundo perto
+WER: 0.3571, CER: 0.1333
+Duração do áudio: 4.34 segundos
+Tempo de processamento: 3.79 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 33642_CO_bfammn32.wav
+Referência sem norm: foi que eu tirei aqueles dias e fiquei lá
+Transcrição sem norm: Foi que eu tirei aqueles dias e fiquei lá.
+Referência: foi que eu tirei aqueles dias e fiquei lá
+Transcrição: foi que eu tirei aqueles dias e fiquei lá
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.49 segundos
+Tempo de processamento: 3.28 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 141091_nurc_.wav
+Referência sem norm: enquanto que skinner estabelece
+Transcrição sem norm: Enquanto que esquina, estabelece...
+Referência: enquanto que skinner estabelece
+Transcrição: enquanto que esquina estabelece
+WER: 0.2500, CER: 0.1935
+Duração do áudio: 2.25 segundos
+Tempo de processamento: 3.37 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 45396_sp_.wav
+Referência sem norm: até a paulista dava mais ou menos uma hora de caminhada era bom
+Transcrição sem norm: Até a paulista. Ah, dava mais ou menos uma hora de caminhada, era bom.
+Referência: até a paulista dava mais ou menos uma hora de caminhada era bom
+Transcrição: até a paulista ah dava mais ou menos uma hora de caminhada era bom
+WER: 0.0769, CER: 0.0476
+Duração do áudio: 3.87 segundos
+Tempo de processamento: 4.29 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: bo3_ncIpin8-0019.wav
+Referência sem norm: o meia pode ser aqui uma umas folhas destas não esta que irá prever como está
+Transcrição sem norm: um mês pode ser aqui umas folhas destas, não é isto? Aqui dá para ver como está o...
+Referência: o meia pode ser aqui uma umas folhas destas não esta que irá prever como está
+Transcrição: um mês pode ser aqui umas folhas destas não é isto aqui dá para ver como está o
+WER: 0.6250, CER: 0.2857
+Duração do áudio: 5.88 segundos
+Tempo de processamento: 4.29 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 141065_nurc_.wav
+Referência sem norm: em um determinado contexto
+Transcrição sem norm: determinado contexto.
+Referência: em um determinado contexto
+Transcrição: determinado contexto
+WER: 0.5000, CER: 0.2308
+Duração do áudio: 1.65 segundos
+Tempo de processamento: 2.91 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: A0dfeodJL8Q-0002.wav
+Referência sem norm: bom é cem por cento fosse em são paulo era todo mundo corinthiano menos o luiz hah
+Transcrição sem norm: Bom, é 100%? Eu falo assim, São Paulo era todo mundo corentiano, menos o Luiz.
+Referência: bom é cem por cento fosse em são paulo era todo mundo corinthiano menos o luiz hah
+Transcrição: bom é cem por cento eu falo assim são paulo era todo mundo corentiano menos o luiz
+WER: 0.2941, CER: 0.1951
+Duração do áudio: 9.92 segundos
+Tempo de processamento: 4.60 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 48126_sp_.wav
+Referência sem norm: pernambuco
+Transcrição sem norm: foi na boca.
+Referência: pernambuco
+Transcrição: foi na boca
+WER: 3.0000, CER: 0.7000
+Duração do áudio: 0.65 segundos
+Tempo de processamento: 2.82 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 3687_alip_.wav
+Referência sem norm: e ela já tem tudo seja o que você quiser qualquer pesquisa qualquer pesquisa
+Transcrição sem norm: Ela já tem tudo. Se o que você quiser, qualquer pesquisa. Qualquer pesquisa.
+Referência: e ela já tem tudo seja o que você quiser qualquer pesquisa qualquer pesquisa
+Transcrição: ela já tem tudo se o que você quiser qualquer pesquisa qualquer pesquisa
+WER: 0.1429, CER: 0.0526
+Duração do áudio: 6.40 segundos
+Tempo de processamento: 4.38 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 42464_alip_.wav
+Referência sem norm: é uma coisa assim
+Transcrição sem norm: anno ali
+Referência: é uma coisa assim
+Transcrição: anno ali
+WER: 1.0000, CER: 0.7059
+Duração do áudio: 1.96 segundos
+Tempo de processamento: 15.97 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 243297_nurc_.wav
+Referência sem norm: então já acho pertíssimo
+Transcrição sem norm: Então, já acho difícil.
+Referência: então já acho pertíssimo
+Transcrição: então já acho difícil
+WER: 0.2500, CER: 0.3333
+Duração do áudio: 1.87 segundos
+Tempo de processamento: 3.17 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: 126687_nurc_.wav
+Referência sem norm: crescem
+Transcrição sem norm: Cresce.
+Referência: crescem
+Transcrição: cresce
+WER: 1.0000, CER: 0.1429
+Duração do áudio: 0.70 segundos
+Tempo de processamento: 2.79 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Arquivo: a4ZFKFLLORE-0003.wav
+Referência sem norm: e a cada dia isso fica mais desconfortável né e eu vou focar mais na verdade do que em
+Transcrição sem norm: a cada dia isso fica mais desconfortável. E eu vou focar mais, na verdade, do que um...
+Referência: e a cada dia isso fica mais desconfortável né e eu vou focar mais na verdade do que em
+Transcrição: a cada dia isso fica mais desconfortável e eu vou focar mais na verdade do que um
+WER: 0.1579, CER: 0.0698
+Duração do áudio: 7.44 segundos
+Tempo de processamento: 3.71 segundos
+Modelo Whisper: whisper-small
+--------------------------------------------------
+Média WER: 0.2621
+Média CER: 0.1509
+Tempo médio de processamento por segundo de áudio: 1.0870 s/s

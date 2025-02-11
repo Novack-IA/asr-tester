@@ -1,0 +1,1005 @@
+Log de Transcrição - AssemblyAI
+==================================================
+Arquivo: 127952_nurc_.wav
+Referência sem norm: me disseram que depois que a pessoa
+Transcrição sem norm: me disseram que depois que a pessoa
+Referência: me disseram que depois que a pessoa
+Transcrição: me disseram que depois que a pessoa
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 6.02 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 48402_sp_.wav
+Referência sem norm: isso acontece muito
+Transcrição sem norm: Acontece muito.
+Referência: isso acontece muito
+Transcrição: acontece muito
+WER: 0.3333, CER: 0.2632
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.14 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 46375_sp_.wav
+Referência sem norm: defender
+Transcrição sem norm: Defender.
+Referência: defender
+Transcrição: defender
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.18 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 23992_CO_bfammn09.wav
+Referência sem norm: eu não tinha um café
+Transcrição sem norm: Eu não tinha um café.
+Referência: eu não tinha um café
+Transcrição: eu não tinha um café
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.22 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 18956_CO_bfammn34.wav
+Referência sem norm: aí eu falei aí aí aí
+Transcrição sem norm: Aí eu falo, ai, ai, ai.
+Referência: aí eu falei aí aí aí
+Transcrição: aí eu falo ai ai ai
+WER: 0.6667, CER: 0.2500
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.28 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 15796_CO_bfammn30.wav
+Referência sem norm: cobrar passagem do senhor
+Transcrição sem norm: cobre a passagem do senhor.
+Referência: cobrar passagem do senhor
+Transcrição: cobre a passagem do senhor
+WER: 0.5000, CER: 0.1200
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.24 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 126853_nurc_.wav
+Referência sem norm: imagina a gente tava numa moda
+Transcrição sem norm: Imagina, ele tava numa moda...
+Referência: imagina a gente tava numa moda
+Transcrição: imagina ele tava numa moda
+WER: 0.3333, CER: 0.1667
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.20 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 62681_alip_.wav
+Referência sem norm: viu
+Transcrição sem norm: Viu?
+Referência: viu
+Transcrição: viu
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.17 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 15592_CO_bfammn12.wav
+Referência sem norm: o latex eu uso o latex branco
+Transcrição sem norm: Eu uso látex branco.
+Referência: o latex eu uso o latex branco
+Transcrição: eu uso látex branco
+WER: 0.5714, CER: 0.3793
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.24 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 47870_sp_.wav
+Referência sem norm: em dezembro
+Transcrição sem norm: Ura bem, né?
+Referência: em dezembro
+Transcrição: ura bem né
+WER: 1.5000, CER: 0.8182
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: Ab5xNf5VoEc-0104.wav
+Referência sem norm: isso já é uma mudança mundial porque essa pessoa vai mudar esse pequeno pe esse pequeno
+Transcrição sem norm: Isso já é uma mudança mundial, porque essa pessoa vai mudar esse pequeno
+Referência: isso já é uma mudança mundial porque essa pessoa vai mudar esse pequeno pe esse pequeno
+Transcrição: isso já é uma mudança mundial porque essa pessoa vai mudar esse pequeno
+WER: 0.1875, CER: 0.1839
+Duração do áudio: 6.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45696_sp_.wav
+Referência sem norm: eh mas eu percebo que tem muitos
+Transcrição sem norm: Mas eu percebo que tem muitos...
+Referência: eh mas eu percebo que tem muitos
+Transcrição: mas eu percebo que tem muitos
+WER: 0.1429, CER: 0.0938
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.22 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 9801_CO_bfammn28.wav
+Referência sem norm: são trinta e tantas pessoas sabe
+Transcrição sem norm: São 30 e tantas pessoas, sabe?
+Referência: são trinta e tantas pessoas sabe
+Transcrição: são trinta e tantas pessoas sabe
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.34 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 3621_alip_.wav
+Referência sem norm: de
+Transcrição sem norm: Viu?
+Referência: de
+Transcrição: viu
+WER: 1.0000, CER: 1.5000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.15 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 126278_nurc_.wav
+Referência sem norm: que bom
+Transcrição sem norm: Obrigado.
+Referência: que bom
+Transcrição: obrigado
+WER: 1.0000, CER: 1.1429
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 42479_alip_.wav
+Referência sem norm: aí o assunto
+Transcrição sem norm: E faz com que...
+Referência: aí o assunto
+Transcrição: e faz com que
+WER: 1.3333, CER: 1.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.23 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 140647_nurc_.wav
+Referência sem norm: crianças que nascem com problemas de surdez
+Transcrição sem norm: Crianças que nascem com problemas de surdez.
+Referência: crianças que nascem com problemas de surdez
+Transcrição: crianças que nascem com problemas de surdez
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.67 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 71216_sp_.wav
+Referência sem norm: sair por aí ver alguma coisa na cidade alguma exposição sei lá
+Transcrição sem norm: sair por aí, ver alguma coisa na cidade, alguma exposição, sei lá.
+Referência: sair por aí ver alguma coisa na cidade alguma exposição sei lá
+Transcrição: sair por aí ver alguma coisa na cidade alguma exposição sei lá
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 4.26 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 48547_sp_.wav
+Referência sem norm: sabe que eu não paro nem pra pensar
+Transcrição sem norm: Só que eu não paro nem pra pensar.
+Referência: sabe que eu não paro nem pra pensar
+Transcrição: só que eu não paro nem pra pensar
+WER: 0.1250, CER: 0.0857
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 128288_nurc_.wav
+Referência sem norm: mas uma bijuteria fina
+Transcrição sem norm: Fazer uma bijuteria fina.
+Referência: mas uma bijuteria fina
+Transcrição: fazer uma bijuteria fina
+WER: 0.2500, CER: 0.1818
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.14 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 47512_sp_.wav
+Referência sem norm: ai que legal
+Transcrição sem norm: Ai que legal, né?
+Referência: ai que legal
+Transcrição: ai que legal né
+WER: 0.3333, CER: 0.2500
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.20 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 195101_nurc_.wav
+Referência sem norm: bem quando é época de de pastoril
+Transcrição sem norm: Quando é a época de pastoria?
+Referência: bem quando é época de de pastoril
+Transcrição: quando é a época de pastoria
+WER: 0.5714, CER: 0.3030
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.27 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 47863_sp_.wav
+Referência sem norm: sim no papel
+Transcrição sem norm: o fim do papel.
+Referência: sim no papel
+Transcrição: o fim do papel
+WER: 1.0000, CER: 0.3333
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.26 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 33639_CO_bfammn32.wav
+Referência sem norm: só que aí aconteceu um um poblema o meu pai pai do meu pai de santo jogou pra mim falou que eu não ia aguentar até julho não
+Transcrição sem norm: Só caí, aconteceu um problema, o meu pai, o pai do meu pai de santo, jogou pra mim, falou que eu não ia aguentar até julho não.
+Referência: só que aí aconteceu um um poblema o meu pai pai do meu pai de santo jogou pra mim falou que eu não ia aguentar até julho não
+Transcrição: só caí aconteceu um problema o meu pai o pai do meu pai de santo jogou pra mim falou que eu não ia aguentar até julho não
+WER: 0.1786, CER: 0.0806
+Duração do áudio: 9.00 segundos
+Tempo de processamento: 4.24 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45226_sp_.wav
+Referência sem norm: meu celular eh a máquina
+Transcrição sem norm: meu celular, a máquina.
+Referência: meu celular eh a máquina
+Transcrição: meu celular a máquina
+WER: 0.2000, CER: 0.1250
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 5.12 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 5945_CO_bfammn33.wav
+Referência sem norm: um menino de saragossa na espanha muito gentil que ele gravava coisas da madona pra mim em vi em vídeo porque não tinha nem devedê na época
+Transcrição sem norm: Um menino de Saragossa, na Espanha, muito gentil, que ele gravava coisas da Madonna pra mim em vídeo, porque não tinha nem DVD na época.
+Referência: um menino de saragossa na espanha muito gentil que ele gravava coisas da madona pra mim em vi em vídeo porque não tinha nem devedê na época
+Transcrição: um menino de saragossa na espanha muito gentil que ele gravava coisas da madonna pra mim em vídeo porque não tinha nem dvd na época
+WER: 0.1481, CER: 0.0719
+Duração do áudio: 11.00 segundos
+Tempo de processamento: 4.44 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: C_m4EUdcghY-0034.wav
+Referência sem norm: da força da resiliência e que este povo está habituado aos focos verão traz drão ao
+Transcrição sem norm: da força e da resiliência a que este povo está habituado. Aos fogos, verão atrás de verão,
+Referência: da força da resiliência e que este povo está habituado aos focos verão traz drão ao
+Transcrição: da força e da resiliência a que este povo está habituado aos fogos verão atrás de verão
+WER: 0.3750, CER: 0.1566
+Duração do áudio: 7.00 segundos
+Tempo de processamento: 4.36 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 44389_alip_.wav
+Referência sem norm: pra fazer essa colheita rápida e
+Transcrição sem norm: para fazer essa acolhida rápida.
+Referência: pra fazer essa colheita rápida e
+Transcrição: para fazer essa acolhida rápida
+WER: 0.5000, CER: 0.1875
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 5.03 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45474_sp_.wav
+Referência sem norm: ia pra balada daí não ia acordava cedo e daí não
+Transcrição sem norm: ia pra balada, acordava cedo.
+Referência: ia pra balada daí não ia acordava cedo e daí não
+Transcrição: ia pra balada acordava cedo
+WER: 0.5455, CER: 0.4375
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 8.55 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 15563_CO_bfammn12.wav
+Referência sem norm: porque eles tavam tavam gostando muito do do dos desenho que a gente tava fazendo que eles tavam pedindo
+Transcrição sem norm: porque eles estavam gostando muito dos desenhos que a gente estava fazendo, que eles estavam pedindo.
+Referência: porque eles tavam tavam gostando muito do do dos desenho que a gente tava fazendo que eles tavam pedindo
+Transcrição: porque eles estavam gostando muito dos desenhos que a gente estava fazendo que eles estavam pedindo
+WER: 0.3684, CER: 0.1635
+Duração do áudio: 7.00 segundos
+Tempo de processamento: 4.29 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 14460_CO_bfammn31.wav
+Referência sem norm: aí eu eles não deixaram falaram que isso cê tá doida ele não tá aí não ele saiu
+Transcrição sem norm: Aí eles não deixaram, falaram que eu estava doida. Ele não está aí não, ele saiu.
+Referência: aí eu eles não deixaram falaram que isso cê tá doida ele não tá aí não ele saiu
+Transcrição: aí eles não deixaram falaram que eu estava doida ele não está aí não ele saiu
+WER: 0.2778, CER: 0.1899
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.50 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 51106_alip_.wav
+Referência sem norm: pode jeito o guarda roupa
+Transcrição sem norm: Pode vir aqui no guarda-roupa.
+Referência: pode jeito o guarda roupa
+Transcrição: pode vir aqui no guardaroupa
+WER: 0.8000, CER: 0.4000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.18 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 70718_sp_.wav
+Referência sem norm: onde quase todo mundo mora lá é há muitos anos
+Transcrição sem norm: onde quase todo mundo mora há muitos anos.
+Referência: onde quase todo mundo mora lá é há muitos anos
+Transcrição: onde quase todo mundo mora há muitos anos
+WER: 0.2000, CER: 0.1087
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.51 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 194881_nurc_.wav
+Referência sem norm: eu particularmente detesto telefonar
+Transcrição sem norm: Eu particularmente detesto me telefonar.
+Referência: eu particularmente detesto telefonar
+Transcrição: eu particularmente detesto me telefonar
+WER: 0.2500, CER: 0.0833
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.33 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 490_CO_bfammn26.wav
+Referência sem norm: e pra mim tá aqui é bem melhor de que no interior tá
+Transcrição sem norm: E pra mim aqui é bem melhor do que no interior.
+Referência: e pra mim tá aqui é bem melhor de que no interior tá
+Transcrição: e pra mim aqui é bem melhor do que no interior
+WER: 0.2308, CER: 0.1346
+Duração do áudio: 8.00 segundos
+Tempo de processamento: 4.66 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 43301_sp_.wav
+Referência sem norm: eu acho que o paulistano é um pouco
+Transcrição sem norm: Eu acho que pode se tornar um pouco...
+Referência: eu acho que o paulistano é um pouco
+Transcrição: eu acho que pode se tornar um pouco
+WER: 0.3750, CER: 0.3714
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 61503_nurc_.wav
+Referência sem norm: desde aquela hora
+Transcrição sem norm: desde aquela hora.
+Referência: desde aquela hora
+Transcrição: desde aquela hora
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.22 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 64409_alip_.wav
+Referência sem norm: forte a gente sabe que
+Transcrição sem norm: O que é que eu faço?
+Referência: forte a gente sabe que
+Transcrição: o que é que eu faço
+WER: 1.2000, CER: 0.7727
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45438_sp_.wav
+Referência sem norm: muito melhor até foi escolhida algumas vezes como melhor escola de ensino médio de são paulo
+Transcrição sem norm: Muito melhor, até foi escolhida algumas vezes como a melhor escola de ensino médio de São Paulo.
+Referência: muito melhor até foi escolhida algumas vezes como melhor escola de ensino médio de são paulo
+Transcrição: muito melhor até foi escolhida algumas vezes como a melhor escola de ensino médio de são paulo
+WER: 0.0625, CER: 0.0217
+Duração do áudio: 6.00 segundos
+Tempo de processamento: 4.28 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 9777_CO_bfammn28.wav
+Referência sem norm: aí ele já tinha dado um chorinho sabe
+Transcrição sem norm: Aí ele já tinha dado um chorinho, sabe?
+Referência: aí ele já tinha dado um chorinho sabe
+Transcrição: aí ele já tinha dado um chorinho sabe
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.25 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 127025_nurc_.wav
+Referência sem norm: pra os bailes de formatura a rigor
+Transcrição sem norm: para os bairros de formatura rigorosa.
+Referência: pra os bailes de formatura a rigor
+Transcrição: para os bairros de formatura rigorosa
+WER: 0.5714, CER: 0.2647
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.28 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 194919_nurc_.wav
+Referência sem norm: porque eu não tenho nenhum que é assim
+Transcrição sem norm: Então não tem ninguém assim.
+Referência: porque eu não tenho nenhum que é assim
+Transcrição: então não tem ninguém assim
+WER: 0.7500, CER: 0.5526
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.22 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 5806_CO_bfammn33.wav
+Referência sem norm: tá
+Transcrição sem norm: Tchau.
+Referência: tá
+Transcrição: tchau
+WER: 1.0000, CER: 2.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.38 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 140881_nurc_.wav
+Referência sem norm: determinar
+Transcrição sem norm: determinar
+Referência: determinar
+Transcrição: determinar
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.42 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 80245_alip_.wav
+Referência sem norm: e eu vá cortar fado cortar cana e a
+Transcrição sem norm: Eu vou cortar, corto, corto.
+Referência: e eu vá cortar fado cortar cana e a
+Transcrição: eu vou cortar corto corto
+WER: 0.7778, CER: 0.5143
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 47668_sp_.wav
+Referência sem norm: e como é que foi passar a infância lá
+Transcrição sem norm: E correto foi passar em São Paulo.
+Referência: e como é que foi passar a infância lá
+Transcrição: e correto foi passar em são paulo
+WER: 0.6667, CER: 0.5135
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 128327_nurc_.wav
+Referência sem norm: de lingerie
+Transcrição sem norm: É lógico.
+Referência: de lingerie
+Transcrição: é lógico
+WER: 1.0000, CER: 0.7273
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 126534_nurc_.wav
+Referência sem norm: mas eu tenho pra mim que isso
+Transcrição sem norm: Mas então, pra mim, que isso...
+Referência: mas eu tenho pra mim que isso
+Transcrição: mas então pra mim que isso
+WER: 0.2857, CER: 0.1724
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.25 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 9807_alip_.wav
+Referência sem norm: é aí tem o o meu quarto onde eu durmo né
+Transcrição sem norm: Aí tem o meu quarto, onde eu durmo.
+Referência: é aí tem o o meu quarto onde eu durmo né
+Transcrição: aí tem o meu quarto onde eu durmo
+WER: 0.2727, CER: 0.1750
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.94 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 62347_nurc_.wav
+Referência sem norm: é você receber amigos ou
+Transcrição sem norm: você receber amigos ou
+Referência: é você receber amigos ou
+Transcrição: você receber amigos ou
+WER: 0.2000, CER: 0.0833
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 7.28 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 80037_alip_.wav
+Referência sem norm: ah
+Transcrição sem norm: Tchau.
+Referência: ah
+Transcrição: tchau
+WER: 1.0000, CER: 2.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.22 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 61733_nurc_.wav
+Referência sem norm: existe inclusive
+Transcrição sem norm: Existe, inclusive...
+Referência: existe inclusive
+Transcrição: existe inclusive
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45388_sp_.wav
+Referência sem norm: na verdade do do daí o que que acontece do jardins pra ali a gente ia
+Transcrição sem norm: Na verdade, daí o que acontece? Dos jardins pra ali a gente ia...
+Referência: na verdade do do daí o que que acontece do jardins pra ali a gente ia
+Transcrição: na verdade daí o que acontece dos jardins pra ali a gente ia
+WER: 0.2500, CER: 0.1594
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.21 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45409_sp_.wav
+Referência sem norm: então não dava pra ir dava pra ir dava pra ir a gente ia
+Transcrição sem norm: Então dava pra ir, dava pra ir, dava pra ir e a gente ia.
+Referência: então não dava pra ir dava pra ir dava pra ir a gente ia
+Transcrição: então dava pra ir dava pra ir dava pra ir e a gente ia
+WER: 0.1429, CER: 0.1071
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.15 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45669_sp_.wav
+Referência sem norm: então deve ter sido algo que a mãe dela pediu alguma coisa assim aí ele registrou
+Transcrição sem norm: Então deve ter sido algo que a mãe dela pediu, alguma coisa assim, aí ele registrou.
+Referência: então deve ter sido algo que a mãe dela pediu alguma coisa assim aí ele registrou
+Transcrição: então deve ter sido algo que a mãe dela pediu alguma coisa assim aí ele registrou
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 5.08 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 143013_nurc_.wav
+Referência sem norm: um cronograma com muitas entradas onde
+Transcrição sem norm: em cronograma com muitas entradas.
+Referência: um cronograma com muitas entradas onde
+Transcrição: em cronograma com muitas entradas
+WER: 0.3333, CER: 0.1579
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.31 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: A4wi3jmf9uY-0052.wav
+Referência sem norm: meu crânio entres dê e ele tá aqui esse aqui é o meu crânio impresso em três dê
+Transcrição sem norm: meu crânio em 3D. E ele tá aqui. Esse aqui é o meu crânio, impresso em 3D.
+Referência: meu crânio entres dê e ele tá aqui esse aqui é o meu crânio impresso em três dê
+Transcrição: meu crânio em 3d e ele tá aqui esse aqui é o meu crânio impresso em 3d
+WER: 0.2222, CER: 0.1646
+Duração do áudio: 6.00 segundos
+Tempo de processamento: 4.28 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 51104_alip_.wav
+Referência sem norm: e a
+Transcrição sem norm: E é por aí.
+Referência: e a
+Transcrição: e é por aí
+WER: 1.5000, CER: 2.3333
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: A0dfeodJL8Q-0077.wav
+Referência sem norm: influenciado pelo crime pela drogadição e pela violência mas o que ia trangibilizar e o
+Transcrição sem norm: influenciado pelo crime, pela drogadição e pela violência. Mas o que ia tangibilizar,
+Referência: influenciado pelo crime pela drogadição e pela violência mas o que ia trangibilizar e o
+Transcrição: influenciado pelo crime pela drogadição e pela violência mas o que ia tangibilizar
+WER: 0.2000, CER: 0.0575
+Duração do áudio: 6.00 segundos
+Tempo de processamento: 4.27 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 61914_nurc_.wav
+Referência sem norm: e tem sua maneira de ver
+Transcrição sem norm: em sua maneira de ver.
+Referência: e tem sua maneira de ver
+Transcrição: em sua maneira de ver
+WER: 0.3333, CER: 0.1250
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.13 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 62634_nurc_.wav
+Referência sem norm: é questão de educação
+Transcrição sem norm: questão da educação.
+Referência: é questão de educação
+Transcrição: questão da educação
+WER: 0.5000, CER: 0.1429
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.23 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 51097_alip_.wav
+Referência sem norm: aham
+Transcrição sem norm: Você está me ouvindo?
+Referência: aham
+Transcrição: você está me ouvindo
+WER: 4.0000, CER: 4.7500
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 4.17 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 501_CO_bfammn26.wav
+Referência sem norm: acho que é só isso hahaha
+Transcrição sem norm: Acho que é só isso.
+Referência: acho que é só isso hahaha
+Transcrição: acho que é só isso
+WER: 0.1667, CER: 0.2800
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.26 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45407_sp_.wav
+Referência sem norm: então a gente ia fazendo
+Transcrição sem norm: Então, a gente ia fazendo...
+Referência: então a gente ia fazendo
+Transcrição: então a gente ia fazendo
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 5.27 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: A1yGXAJx-x8-0094.wav
+Referência sem norm: realizar mais esse sonho a família do miguel uma família muito especial para gente a mãe
+Transcrição sem norm: realizar mais esse sonho. A família do Miguel é uma família muito especial para a gente.
+Referência: realizar mais esse sonho a família do miguel uma família muito especial para gente a mãe
+Transcrição: realizar mais esse sonho a família do miguel é uma família muito especial para a gente
+WER: 0.1875, CER: 0.1136
+Duração do áudio: 7.00 segundos
+Tempo de processamento: 8.47 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: a4ZFKFLLORE-0117.wav
+Referência sem norm: contra os nativos mas respirar o ar do nativo né eu ouvi esse ano viajando
+Transcrição sem norm: contra os nativos, mas respirar o ar do nativo. Eu ouvi esse ano viajando
+Referência: contra os nativos mas respirar o ar do nativo né eu ouvi esse ano viajando
+Transcrição: contra os nativos mas respirar o ar do nativo eu ouvi esse ano viajando
+WER: 0.0667, CER: 0.0405
+Duração do áudio: 9.00 segundos
+Tempo de processamento: 4.24 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 31437_CO_bfammn24.wav
+Referência sem norm: mas eu não tenho vocação nenhuma
+Transcrição sem norm: mas eu não tenho vocação nenhuma.
+Referência: mas eu não tenho vocação nenhuma
+Transcrição: mas eu não tenho vocação nenhuma
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.25 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: aXZ9Cb9ffE8-0068.wav
+Referência sem norm: né mas eu era mais jovem e muito sonhadora e eu acreditava e continuo acreditando nas pessoas
+Transcrição sem norm: Mas eu era mais jovem e muito sonhadora. E eu acreditava e continuo acreditando nas pessoas.
+Referência: né mas eu era mais jovem e muito sonhadora e eu acreditava e continuo acreditando nas pessoas
+Transcrição: mas eu era mais jovem e muito sonhadora e eu acreditava e continuo acreditando nas pessoas
+WER: 0.0588, CER: 0.0323
+Duração do áudio: 9.00 segundos
+Tempo de processamento: 4.20 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 195203_nurc_.wav
+Referência sem norm: num sei
+Transcrição sem norm: você.
+Referência: num sei
+Transcrição: você
+WER: 1.0000, CER: 1.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 7.41 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 5853_CO_bfammn33.wav
+Referência sem norm: e depois quando ela ficou famosa essas revistas estouraram aí no década de oitenta
+Transcrição sem norm: E depois, quando ela ficou famosa, essas revistas estouraram aí no décimo de 80.
+Referência: e depois quando ela ficou famosa essas revistas estouraram aí no década de oitenta
+Transcrição: e depois quando ela ficou famosa essas revistas estouraram aí no décimo de oitenta
+WER: 0.0714, CER: 0.0366
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 4.18 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 3404_alip_.wav
+Referência sem norm: de excursão eh nós fomos de ônibus tinha três ônibus
+Transcrição sem norm: de excursão, nós somos de ônibus, tinha três ônibus.
+Referência: de excursão eh nós fomos de ônibus tinha três ônibus
+Transcrição: de excursão nós somos de ônibus tinha três ônibus
+WER: 0.2000, CER: 0.0769
+Duração do áudio: 6.00 segundos
+Tempo de processamento: 11.10 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 141106_nurc_.wav
+Referência sem norm: ao adotar a teoria do estímulo resposta
+Transcrição sem norm: Ao adotar a teoria do estímulo-resposta,
+Referência: ao adotar a teoria do estímulo resposta
+Transcrição: ao adotar a teoria do estímuloresposta
+WER: 0.2857, CER: 0.0256
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.20 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 141144_nurc_.wav
+Referência sem norm: entre um estímulo e o comportamento evidenciado
+Transcrição sem norm: entre um estímulo e o comportamento evidenciado.
+Referência: entre um estímulo e o comportamento evidenciado
+Transcrição: entre um estímulo e o comportamento evidenciado
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.25 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 62786_alip_.wav
+Referência sem norm: meu deu como eu fui embora que quinta feira eu tava
+Transcrição sem norm: Meu Deus, eu fui embora que quinta-feira eu tava...
+Referência: meu deu como eu fui embora que quinta feira eu tava
+Transcrição: meu deus eu fui embora que quintafeira eu tava
+WER: 0.3636, CER: 0.1176
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.36 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 48126_sp_.wav
+Referência sem norm: pernambuco
+Transcrição sem norm: Foi na boca.
+Referência: pernambuco
+Transcrição: foi na boca
+WER: 3.0000, CER: 0.7000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 140745_nurc_.wav
+Referência sem norm: no qual não há uma preocupação social
+Transcrição sem norm: no qual não há uma preocupação social.
+Referência: no qual não há uma preocupação social
+Transcrição: no qual não há uma preocupação social
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 4.58 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 70864_sp_.wav
+Referência sem norm: mas o
+Transcrição sem norm: Mas o...
+Referência: mas o
+Transcrição: mas o
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.10 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 43616_sp_.wav
+Referência sem norm: na na televisão que a gente fala nossa eu não eu não calculo o que é passar por isso sabe
+Transcrição sem norm: na televisão, que a gente fala, nossa, eu não calculo o que é passar por isso, sabe?
+Referência: na na televisão que a gente fala nossa eu não eu não calculo o que é passar por isso sabe
+Transcrição: na televisão que a gente fala nossa eu não calculo o que é passar por isso sabe
+WER: 0.1500, CER: 0.1124
+Duração do áudio: 6.00 segundos
+Tempo de processamento: 4.55 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 71778_sp_.wav
+Referência sem norm: amargo
+Transcrição sem norm: amargo
+Referência: amargo
+Transcrição: amargo
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.29 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 42986_alip_.wav
+Referência sem norm: e coloco
+Transcrição sem norm: E colocou...
+Referência: e coloco
+Transcrição: e colocou
+WER: 0.5000, CER: 0.1250
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.14 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 51064_alip_.wav
+Referência sem norm: e guarda roupa for
+Transcrição sem norm: e depois da roupa.
+Referência: e guarda roupa for
+Transcrição: e depois da roupa
+WER: 0.7500, CER: 0.6111
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.15 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 3507_alip_.wav
+Referência sem norm: é a camisa depois você clica você troca a calça
+Transcrição sem norm: a camisa, depois você clica pra trocar a calça.
+Referência: é a camisa depois você clica você troca a calça
+Transcrição: a camisa depois você clica pra trocar a calça
+WER: 0.3000, CER: 0.1489
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.30 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 126326_nurc_.wav
+Referência sem norm: e a chave de marcela
+Transcrição sem norm: E na chave, Marcelo.
+Referência: e a chave de marcela
+Transcrição: e na chave marcelo
+WER: 0.6000, CER: 0.2500
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 5.48 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 71705_sp_.wav
+Referência sem norm: porque são geralmente são é
+Transcrição sem norm: Porque são geralmente tão raros.
+Referência: porque são geralmente são é
+Transcrição: porque são geralmente tão raros
+WER: 0.4000, CER: 0.2222
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 4.34 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 50853_alip_.wav
+Referência sem norm: mas foi gente linguaruda né
+Transcrição sem norm: Você é tão gentil.
+Referência: mas foi gente linguaruda né
+Transcrição: você é tão gentil
+WER: 1.0000, CER: 0.8519
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.27 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 61813_nurc_.wav
+Referência sem norm: eu não saberia muito como me sair não
+Transcrição sem norm: Eu não saberia muito como me sair, não.
+Referência: eu não saberia muito como me sair não
+Transcrição: eu não saberia muito como me sair não
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.19 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 19167_CO_bfammn19.wav
+Referência sem norm: mas a gente sabe quando não vai ser bom
+Transcrição sem norm: Mas a gente sabe que não vai ser bom.
+Referência: mas a gente sabe quando não vai ser bom
+Transcrição: mas a gente sabe que não vai ser bom
+WER: 0.1111, CER: 0.1026
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.26 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 62666_alip_.wav
+Referência sem norm: ela mata eu passo por ela eu não amo
+Transcrição sem norm: aquela parte, a parte por ela não olha.
+Referência: ela mata eu passo por ela eu não amo
+Transcrição: aquela parte a parte por ela não olha
+WER: 0.6667, CER: 0.5000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.45 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 140896_nurc_.wav
+Referência sem norm: esboçados pelos estudiosos da linguagem
+Transcrição sem norm: esboçados pelos estudiosos da linguagem.
+Referência: esboçados pelos estudiosos da linguagem
+Transcrição: esboçados pelos estudiosos da linguagem
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.21 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 43142_alip_.wav
+Referência sem norm: opinião sobre alguma coisa por isso com as crianças brin
+Transcrição sem norm: O que é que me afasta de alguma coisa? O que é que me afasta?
+Referência: opinião sobre alguma coisa por isso com as crianças brin
+Transcrição: o que é que me afasta de alguma coisa o que é que me afasta
+WER: 1.3000, CER: 0.7500
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 7.57 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 3453_alip_.wav
+Referência sem norm: não tinha nenhuma sujeira não era tava bem limpa a praia
+Transcrição sem norm: Não tinha nem uma sujeira não, estava bem limpa a praia.
+Referência: não tinha nenhuma sujeira não era tava bem limpa a praia
+Transcrição: não tinha nem uma sujeira não estava bem limpa a praia
+WER: 0.3636, CER: 0.0893
+Duração do áudio: 4.00 segundos
+Tempo de processamento: 11.17 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 50895_alip_.wav
+Referência sem norm: é verdade isso aí
+Transcrição sem norm: É verdade.
+Referência: é verdade isso aí
+Transcrição: é verdade
+WER: 0.5000, CER: 0.4706
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 23.77 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 48704_sp_.wav
+Referência sem norm: e com o início do ano letivo temem ter para onde não para onde ir
+Transcrição sem norm: e com o início do ano letivo temem ter para onde ir.
+Referência: e com o início do ano letivo temem ter para onde não para onde ir
+Transcrição: e com o início do ano letivo temem ter para onde ir
+WER: 0.2000, CER: 0.2154
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 12.10 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 45856_sp_.wav
+Referência sem norm: demorou muito na verdade
+Transcrição sem norm: Demorou muito, na verdade...
+Referência: demorou muito na verdade
+Transcrição: demorou muito na verdade
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 2.00 segundos
+Tempo de processamento: 11.45 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 46434_sp_.wav
+Referência sem norm: caipira e não é tanto isso mas talvez
+Transcrição sem norm: caipira e não é tanto isso, mas talvez
+Referência: caipira e não é tanto isso mas talvez
+Transcrição: caipira e não é tanto isso mas talvez
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.44 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 11458_CO_bfammn11.wav
+Referência sem norm: a a a casa tava toda escura só aquela luz ali da daquele daquele cômodo acesa a a madrugada ainda tava ainda presente e a e a
+Transcrição sem norm: A casa estava toda escura, só aquela luz ali daquele cômodo acesa. A madrugada ainda estava presente.
+Referência: a a a casa tava toda escura só aquela luz ali da daquele daquele cômodo acesa a a madrugada ainda tava ainda presente e a e a
+Transcrição: a casa estava toda escura só aquela luz ali daquele cômodo acesa a madrugada ainda estava presente
+WER: 0.4444, CER: 0.2800
+Duração do áudio: 11.00 segundos
+Tempo de processamento: 4.27 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 43579_sp_.wav
+Referência sem norm: eh mas e seria um porque como assim
+Transcrição sem norm: Mas seria um porquê como assim?
+Referência: eh mas e seria um porque como assim
+Transcrição: mas seria um porquê como assim
+WER: 0.3750, CER: 0.1714
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.78 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 61892_nurc_.wav
+Referência sem norm: quase sempre na realidade dos pais
+Transcrição sem norm: quase sempre na realidade dos pais.
+Referência: quase sempre na realidade dos pais
+Transcrição: quase sempre na realidade dos pais
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 3.00 segundos
+Tempo de processamento: 4.51 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 23962_CO_bfammn09.wav
+Referência sem norm: o médico me liberou e eu peguei inda eu falei com ele falei ôh doutor eu tô com as dores tá normalmente
+Transcrição sem norm: O Biasco me liberou e eu falei com ele, falei, doutor, as dores estão normalmente.
+Referência: o médico me liberou e eu peguei inda eu falei com ele falei ôh doutor eu tô com as dores tá normalmente
+Transcrição: o biasco me liberou e eu falei com ele falei doutor as dores estão normalmente
+WER: 0.4091, CER: 0.3495
+Duração do áudio: 5.00 segundos
+Tempo de processamento: 4.26 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Arquivo: 47674_sp_.wav
+Referência sem norm: sim
+Transcrição sem norm: Sim.
+Referência: sim
+Transcrição: sim
+WER: 0.0000, CER: 0.0000
+Duração do áudio: 1.00 segundos
+Tempo de processamento: 4.16 segundos
+Modelo AssemblyAi: best
+--------------------------------------------------
+Média WER: 0.2494
+Média CER: 0.1455
+Tempo médio de processamento por segundo de áudio: 1.3458 s/s
