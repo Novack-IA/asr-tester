@@ -1,0 +1,12 @@
+-- model
+   1-deepgramnova2
+   2-assemblyaibest
+   3-whispersmall
+   more coming soon...
+-- config 
+   1-atual(dados aleatórios extraídos do datataset CORAA)
+   2-proporcional(dados extraídos prpporcionalmente de cada dataset)
+   3-unitaria(dados extraídos de um único subdataset)
+        --subdataset selecionar subpasta de test/
+-- sample  
+   selecionar quantidade de áudios(para configuração proporcional o sample=n será extraído de cada subdataset)

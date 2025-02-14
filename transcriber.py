@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from pydub import AudioSegment
 from mark_preprocessing import MarkPreprocessing
 import torch
+import httpx
 
 # Importação condicional dos modelos
 try:
@@ -50,21 +51,21 @@ def transcribe_deepgram(file_path):
     with open(file_path, "rb") as audio:
         options = PrerecordedOptions(model="nova-2", language="pt-BR", punctuate=True, filler_words= True)
         start_time = time.time()
-        response = deepgram.listen.prerecorded.v("1").transcribe_file({"buffer": audio, "mimetype": "audio/wav"}, options)
+        response = deepgram.listen.prerecorded.v("1").transcribe_file({"buffer": audio, "mimetype": "audio/wav"}, options,  timeout=httpx.Timeout(900.0, connect=10.0))
         end_time = time.time()
     return response["results"]["channels"][0]["alternatives"][0]["transcript"], end_time - start_time
 
 def transcribe_assemblyai(file_path):
+    start_time = time.time()
     transcriber = aai.Transcriber()
     transcript = transcriber.transcribe(file_path, config=aai.TranscriptionConfig(language_code="pt", speech_model=aai.SpeechModel.best))
     if transcript.status == aai.TranscriptStatus.error:
         return None, None
-    return transcript.text, transcript.audio_duration
+    end_time = time.time()
+    return transcript.text, end_time - start_time
 
 def transcribe_whisper(file_path):
     model = whisper.load_model("small")
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    model.to(device)
     start_time = time.time()
     result = model.transcribe(file_path, language="pt")
     end_time = time.time()
@@ -150,20 +151,20 @@ if __name__ == "__main__":
     results, valid_metrics = process_dataset(args.model)
     
     if valid_metrics:
-        total_inference_time = sum(t for _, _, t, _ in valid_metrics)
-        total_audio_time = sum(a for _, _, _, a in valid_metrics)
-        avg_wer = sum(w for w, _, _, _ in valid_metrics) / len(valid_metrics)
-        avg_cer = sum(c for _, c, _, _ in valid_metrics) / len(valid_metrics)
-        avg_inference_time = total_inference_time / total_audio_time if total_audio_time > 0 else 0
-        total_minutes_processed = total_audio_time / 60
+        total_inference_time = round(sum(t for _, _, t, _ in valid_metrics), 2)
+        total_audio_time = round(sum(a for _, _, _, a in valid_metrics), 2)
+        avg_wer = round(sum(w for w, _, _, _ in valid_metrics) / len(valid_metrics), 2)
+        avg_cer = round(sum(c for _, c, _, _ in valid_metrics) / len(valid_metrics), 2)
+        avg_inference_time = round(total_inference_time / total_audio_time, 2) if total_audio_time > 0 else 0
+        total_minutes_processed = round(total_audio_time / 60, 2)
     else:
         avg_wer, avg_cer, avg_inference_time, total_minutes_processed = 0, 0, 0, 0
     
     valid_metrics_filtered = [(w, c) for w, c, _, _ in valid_metrics if not (w == 100.0 and c == 100.0)]
     
     if valid_metrics_filtered:
-        avg_wer_filtered = sum(w for w, _ in valid_metrics_filtered) / len(valid_metrics_filtered)
-        avg_cer_filtered = sum(c for _, c in valid_metrics_filtered) / len(valid_metrics_filtered)
+        avg_wer_filtered = round(sum(w for w, _ in valid_metrics_filtered) / len(valid_metrics_filtered), 2)
+        avg_cer_filtered = round(sum(c for _, c in valid_metrics_filtered) / len(valid_metrics_filtered), 2)
     else:
         avg_wer_filtered, avg_cer_filtered = 0, 0
     
